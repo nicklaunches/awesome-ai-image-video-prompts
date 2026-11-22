@@ -1,6 +1,6 @@
 # Awesome AI Image and Video Prompts
 
-226 tested AI image and video prompts across 28 models, including Nano Banana Pro (the model behind Gemini AI photo prompts), FLUX.2, Qwen Image, Seedance 2.0 and Veo 3.1: 150 image prompts and 76 video prompts, each shown with the result it produced on the named model.
+571 tested AI image and video prompts across 31 models, including Nano Banana Pro (the model behind Gemini AI photo prompts), FLUX.2, Qwen Image, Seedance 2.0 and Veo 3.1: 405 image prompts and 166 video prompts, each shown with the result it produced on the named model.
 
 The prompts come from the [Prompt Generator prompt library](https://trypromptgenerator.com/prompts). Every entry has a copy button on its code block and a link to its page, where you get the full-size result (or the playable clip), a breakdown of what each part of the prompt does, and variations to try.
 
@@ -8,19 +8,19 @@ The prompts come from the [Prompt Generator prompt library](https://trypromptgen
 
 | Category | Kind | Prompts |
 |---|---|---|
-| [Gemini AI photo prompts (Nano Banana)](prompts/gemini-ai-photo-prompts.md) | Image | 26 |
-| [AI photo editing prompts](prompts/ai-photo-editing-prompts.md) | Image | 33 |
-| [Couple photo prompts for Gemini](prompts/couple-photo-prompts.md) | Image | 9 |
+| [Gemini AI photo prompts (Nano Banana)](prompts/gemini-ai-photo-prompts.md) | Image | 41 |
+| [AI photo editing prompts](prompts/ai-photo-editing-prompts.md) | Image | 46 |
+| [Couple photo prompts for Gemini](prompts/couple-photo-prompts.md) | Image | 24 |
 | [Christmas photo prompts](prompts/christmas-photo-prompts.md) | Image | 22 |
-| [3D figurine prompts](prompts/3d-figurine-prompts.md) | Image | 7 |
-| [AI product photo prompts](prompts/product-photo-prompts.md) | Image | 11 |
-| [AI art and image prompts (FLUX, Qwen Image, Recraft)](prompts/ai-art-prompts.md) | Image | 62 |
-| [Cinematic AI video prompts (Seedance, Veo, Wan)](prompts/cinematic-video-prompts.md) | Video | 43 |
-| [Product video prompts](prompts/product-video-prompts.md) | Video | 12 |
-| [Social video prompts for Reels, TikTok and Shorts](prompts/social-video-prompts.md) | Video | 9 |
-| [Nature video prompts](prompts/nature-video-prompts.md) | Video | 12 |
+| [3D figurine prompts](prompts/3d-figurine-prompts.md) | Image | 11 |
+| [AI product photo prompts](prompts/product-photo-prompts.md) | Image | 35 |
+| [AI art and image prompts (FLUX, Qwen Image, Recraft)](prompts/ai-art-prompts.md) | Image | 289 |
+| [Cinematic AI video prompts (Seedance, Veo, Wan)](prompts/cinematic-video-prompts.md) | Video | 91 |
+| [Product video prompts](prompts/product-video-prompts.md) | Video | 13 |
+| [Social video prompts for Reels, TikTok and Shorts](prompts/social-video-prompts.md) | Video | 43 |
+| [Nature video prompts](prompts/nature-video-prompts.md) | Video | 30 |
 
-A prompt can sit in more than one category, so the rows add up to more than 226.
+A prompt can sit in more than one category, so the rows add up to more than 571.
 
 Also on this page: [How to use a prompt](#how-to-use-a-prompt) | [Prompts by model](#prompts-by-model) | [Write your own prompt](#write-your-own-prompt) | [Licence and credits](#licence-and-credits)
 
@@ -34,7 +34,7 @@ Results differ between models. A prompt written for Nano Banana Pro will run on 
 
 ## Gemini AI photo prompts (Nano Banana)
 
-Upload your own photo to Gemini, paste the prompt, and get a new scene with the same face. 26 prompts in this category, 4 shown here. [See all 26](prompts/gemini-ai-photo-prompts.md).
+Upload your own photo to Gemini, paste the prompt, and get a new scene with the same face. 41 prompts in this category, 4 shown here. [See all 41](prompts/gemini-ai-photo-prompts.md).
 
 ### 1950s black and white couple portrait
 
@@ -60,6 +60,18 @@ Using my uploaded photo, keep the face exactly the same and place the person in 
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/1970s-bombay-scooter-portrait)
 
+### 1970s road trip couple photo
+
+<a href="https://trypromptgenerator.com/p/couple-1970s-desert-road-trip"><img src="https://trypromptgenerator.com/library/couple-1970s-desert-road-trip.webp" width="220" alt="1970s road trip couple photo: result on Nano Banana Pro"></a>
+
+**Model:** Nano Banana Pro | **Aspect ratio:** 3:2
+
+```text
+Keep both faces from my uploaded photo exactly the same. Show the couple on a 1970s road trip, sitting on the hood of a pale blue vintage convertible with no badges or lettering, parked on the shoulder of an empty desert highway. The person on the left wears a printed silk scarf in their hair and large sunglasses pushed up on the head, the person on the right a brown suede jacket over a cream shirt. Both smile at the camera. Red rock buttes and long shadows behind them, the straight road running to the horizon. Late afternoon sun, faded warm colours and soft grain like a 1970s colour slide, 3:2 frame.
+```
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/couple-1970s-desert-road-trip)
+
 ### 35mm film candid portrait
 
 <a href="https://trypromptgenerator.com/p/35mm-film-candid-portrait"><img src="https://trypromptgenerator.com/library/35mm-film-candid-portrait.webp" width="220" alt="35mm film candid portrait: result on Nano Banana Pro"></a>
@@ -72,23 +84,11 @@ Make my uploaded photo look like a candid shot on 35mm film, keeping the face un
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/35mm-film-candid-portrait)
 
-### 3D collectible figurine of yourself
-
-<a href="https://trypromptgenerator.com/p/3d-figurine-on-desk"><img src="https://trypromptgenerator.com/library/3d-figurine-on-desk.webp" width="220" alt="3D collectible figurine of yourself: result on Nano Banana Pro"></a>
-
-**Model:** Nano Banana Pro | **Aspect ratio:** 1:1
-
-```text
-Create a 1/7 scale collectible figurine of the person in my uploaded photo, with their face, hairstyle and clothes matched exactly. The figurine stands on a round clear acrylic base on a wooden desk. Behind it on the desk is a printed collector's box with the same figure's artwork on the front, and a computer monitor showing the figurine's 3D model in modelling software. Realistic product photography, soft daylight from a window, shallow depth of field, square 1:1 frame.
-```
-
-[Result, breakdown and variations →](https://trypromptgenerator.com/p/3d-figurine-on-desk)
-
-[See all 26 in this category →](prompts/gemini-ai-photo-prompts.md)
+[See all 41 in this category →](prompts/gemini-ai-photo-prompts.md)
 
 ## AI photo editing prompts
 
-Edits to a photo you already have: restyle, relight, restore, swap a background, change an outfit. 33 prompts in this category, 4 shown here. [See all 33](prompts/ai-photo-editing-prompts.md).
+Edits to a photo you already have: restyle, relight, restore, swap a background, change an outfit. 46 prompts in this category, 4 shown here. [See all 46](prompts/ai-photo-editing-prompts.md).
 
 ### Change your outfit to a suit
 
@@ -101,6 +101,34 @@ Change only the outfit in my uploaded photo: dress the person in a well-fitted c
 ```
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/outfit-change-suit)
+
+### Add a croissant next to your coffee
+
+<a href="https://trypromptgenerator.com/p/add-croissant-next-to-coffee-mug-photo"><img src="https://trypromptgenerator.com/library/add-croissant-next-to-coffee-mug-photo.webp" width="220" alt="Add a croissant next to your coffee: result on FLUX.3 Image Klein"></a>
+
+**Model:** FLUX.3 Image Klein | **Aspect ratio:** 1:1
+
+```text
+Using my uploaded photo, add a golden flaky butter croissant on the wooden table to the right of the coffee mug, with a few crumbs around it. Keep the mug, the window, the light and the shadows exactly as in the photo, and match the new croissant to the same warm side light.
+```
+
+Credit: prompt adapted from [GitHub](https://github.com/black-forest-labs/flux-3-image-klein/tree/main/examples/distilled) by Black Forest Labs, Apache 2.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/add-croissant-next-to-coffee-mug-photo)
+
+### Add a knitted wizard hat to your cat
+
+<a href="https://trypromptgenerator.com/p/add-knitted-wizard-hat-to-cat-photo"><img src="https://trypromptgenerator.com/library/add-knitted-wizard-hat-to-cat-photo.webp" width="220" alt="Add a knitted wizard hat to your cat: result on Nano Banana"></a>
+
+**Model:** Nano Banana | **Aspect ratio:** 1:1
+
+```text
+Using my uploaded photo of my cat, add a small hand-knitted wizard hat on its head in deep blue wool with little white stars and a pom-pom on the tip. Make it look like it is really sitting on the cat's head, matching the lighting and shadows of the photo. Keep the cat, its pose and the room exactly the same.
+```
+
+Credit: prompt adapted from [Google Gemini API docs](https://ai.google.dev/gemini-api/docs/image-generation (still shown at https://aistudio.google.com/docs/image-generation)) by Google (Gemini API docs team), CC BY 4.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/add-knitted-wizard-hat-to-cat-photo)
 
 ### Apply artistic style from reference image to original photo
 
@@ -116,39 +144,11 @@ Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/wor
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/apply-artistic-style-from-reference-image-to-original-photo)
 
-### Beach makeover for man and dog with linen outfits and accessories
-
-<a href="https://trypromptgenerator.com/p/beach-makeover-for-man-and-dog-with-linen-outfits-and-accessories"><img src="https://trypromptgenerator.com/library/beach-makeover-for-man-and-dog-with-linen-outfits-and-accessories.webp" width="220" alt="Beach makeover for man and dog with linen outfits and accessories: result on Nano Banana 2"></a>
-
-**Model:** Nano Banana 2 | **Aspect ratio:** 3:4
-
-```text
-Edit the image: change the man's white tank top and light pink corduroy pants to an unbuttoned cream-colored linen button-down shirt and white linen shorts; change his hairstyle to wavy medium-length hair; add round tortoiseshell sunglasses on his nose; change the dog's plain collar to a blue and white striped sailor collar and add a small straw sun hat on the dog; change the background to a sunny beach with warm golden sand and the ocean in the distance; keep the man's kneeling pose, the dog's sitting posture, and their interaction identical to the original image.
-```
-
-Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_google_nano_banana2_image_edit.json) by Comfy Org, MIT licence.
-
-[Result, breakdown and variations →](https://trypromptgenerator.com/p/beach-makeover-for-man-and-dog-with-linen-outfits-and-accessories)
-
-### Change outfit and hairstyle in existing photo
-
-<a href="https://trypromptgenerator.com/p/change-outfit-and-hairstyle-in-existing-photo"><img src="https://trypromptgenerator.com/library/change-outfit-and-hairstyle-in-existing-photo.webp" width="220" alt="Change outfit and hairstyle in existing photo: result on GPT Image 2.5 Flare"></a>
-
-**Model:** GPT Image 2.5 Flare | **Aspect ratio:** 1:1
-
-```text
-Keep the background environment, concrete walls, blue sky, sunlight, shadows, camera angle, framing and composition completely unchanged. Change her into a soft floral tulle dress, and style her hair into loose bohemian curls with small flowers.
-```
-
-Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_flare_image_edit.json) by Comfy Org, MIT licence.
-
-[Result, breakdown and variations →](https://trypromptgenerator.com/p/change-outfit-and-hairstyle-in-existing-photo)
-
-[See all 33 in this category →](prompts/ai-photo-editing-prompts.md)
+[See all 46 in this category →](prompts/ai-photo-editing-prompts.md)
 
 ## Couple photo prompts for Gemini
 
-Two-person photo prompts that keep both faces from the photos you upload. 9 prompts in this category, 4 shown here. [See all 9](prompts/couple-photo-prompts.md).
+Two-person photo prompts that keep both faces from the photos you upload. 24 prompts in this category, 4 shown here. [See all 24](prompts/couple-photo-prompts.md).
 
 ### Couple 3D figurines
 
@@ -162,43 +162,43 @@ Create a pair of 1/7 scale collectible figurines of the two people in my uploade
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/couple-3d-figurines)
 
-### Couple Christmas photo under the lights
+### Couple apple picking in an autumn orchard
 
-<a href="https://trypromptgenerator.com/p/couple-christmas-lights"><img src="https://trypromptgenerator.com/library/couple-christmas-lights.webp" width="220" alt="Couple Christmas photo under the lights: result on Nano Banana Pro"></a>
-
-**Model:** Nano Banana Pro | **Aspect ratio:** 4:5
-
-```text
-Keep both faces from my uploaded photo exactly the same. Show the couple outdoors on a winter evening under strings of warm Christmas lights, wrapped together in one oversized red plaid blanket, cheeks close and laughing. Light snow falls, a decorated tree glows behind them and their breath shows in the cold air. Warm, festive tones, soft bokeh, 4:5 frame.
-```
-
-[Result, breakdown and variations →](https://trypromptgenerator.com/p/couple-christmas-lights)
-
-### Couple decorating the Christmas tree
-
-<a href="https://trypromptgenerator.com/p/couple-christmas-tree-decorating"><img src="https://trypromptgenerator.com/library/couple-christmas-tree-decorating.webp" width="220" alt="Couple decorating the Christmas tree: result on Nano Banana Pro"></a>
+<a href="https://trypromptgenerator.com/p/couple-apple-orchard-autumn"><img src="https://trypromptgenerator.com/library/couple-apple-orchard-autumn.webp" width="220" alt="Couple apple picking in an autumn orchard: result on Nano Banana Pro"></a>
 
 **Model:** Nano Banana Pro | **Aspect ratio:** 4:5
 
 ```text
-Keep both faces from my uploaded photo exactly the same. Show the couple decorating a Christmas tree in their living room: the person on the left stands on tiptoe placing a gold star on top, and the person on the right holds a tangle of fairy lights and laughs up at them. Half-open boxes of baubles on the floor, a sofa with a knitted throw, evening light from a lamp and the tree lights. Both wear cosy knitwear. Candid, as if a friend took it on a phone, 4:5 frame.
+Keep both faces from my uploaded photo exactly the same. Show the couple apple picking in an orchard on a crisp October afternoon. The person on the left reaches for a red apple on a low branch and glances back at the camera, the person on the right holds a wooden crate half full of apples and smiles at the camera. Both wear chunky knit sweaters, one mustard and one forest green, with jeans and boots. Orange and yellow leaves on the trees, fallen apples in the grass, low golden sun through the branches. Warm autumn tones, 35mm film look, 4:5 frame.
 ```
 
-[Result, breakdown and variations →](https://trypromptgenerator.com/p/couple-christmas-tree-decorating)
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/couple-apple-orchard-autumn)
 
-### Couple in matching Christmas pajamas
+### Couple at a cafe window on a rainy day
 
-<a href="https://trypromptgenerator.com/p/couple-matching-pajamas-christmas-morning"><img src="https://trypromptgenerator.com/library/couple-matching-pajamas-christmas-morning.webp" width="220" alt="Couple in matching Christmas pajamas: result on Nano Banana Pro"></a>
+<a href="https://trypromptgenerator.com/p/couple-cafe-rainy-window"><img src="https://trypromptgenerator.com/library/couple-cafe-rainy-window.webp" width="220" alt="Couple at a cafe window on a rainy day: result on Nano Banana Pro"></a>
 
 **Model:** Nano Banana Pro | **Aspect ratio:** 4:5
 
 ```text
-Keep both faces from my uploaded photo exactly the same. Show the couple on Christmas morning sitting on the living room floor in matching red and green tartan pajamas, with wrapped presents and torn paper around them, each holding a mug of coffee. The person on the left leans on the shoulder of the person on the right, and both smile at the camera. A lit tree stands behind them and soft morning light comes through the window. Natural, relaxed, slightly grainy film look, 4:5 frame.
+Keep both faces from my uploaded photo exactly the same. Show the couple sitting side by side at the window counter of a small cafe on a rainy afternoon, two cups of coffee and one shared slice of cake in front of them. The person on the left rests their chin on one hand and both laugh toward the camera. Behind them, raindrops run down the big window and the street outside is a soft grey blur of passing umbrellas, while the inside is warm with wood, plants and small lamps. Shot from inside the cafe, muted warm tones, gentle film grain, 4:5 frame.
 ```
 
-[Result, breakdown and variations →](https://trypromptgenerator.com/p/couple-matching-pajamas-christmas-morning)
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/couple-cafe-rainy-window)
 
-[See all 9 in this category →](prompts/couple-photo-prompts.md)
+### Couple at their haldi ceremony
+
+<a href="https://trypromptgenerator.com/p/couple-haldi-ceremony"><img src="https://trypromptgenerator.com/library/couple-haldi-ceremony.webp" width="220" alt="Couple at their haldi ceremony: result on Nano Banana Pro"></a>
+
+**Model:** Nano Banana Pro | **Aspect ratio:** 4:5
+
+```text
+Keep both faces from my uploaded photo exactly the same. Show the couple at their haldi ceremony in a courtyard hung with marigold garlands, sitting side by side on low wooden stools. The person on the left wears a yellow saree with marigold flower jewellery, the person on the right a yellow cotton kurta. Turmeric paste is smudged on their cheeks and forearms, marigold petals fly through the air from relatives just outside the frame, and both of them laugh at the camera. A brass bowl of haldi paste sits at their feet. Bright morning daylight, candid wedding photography, 4:5 frame.
+```
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/couple-haldi-ceremony)
+
+[See all 24 in this category →](prompts/couple-photo-prompts.md)
 
 ## Christmas photo prompts
 
@@ -256,22 +256,19 @@ Keep the face from my uploaded photo exactly as it is. Show the person in a warm
 
 ## 3D figurine prompts
 
-Figurines, toys, collectibles and character sheets. 7 prompts in this category, 4 shown here. [See all 7](prompts/3d-figurine-prompts.md).
+Figurines, toys, collectibles and character sheets. 11 prompts in this category, 4 shown here. [See all 11](prompts/3d-figurine-prompts.md).
 
-### 360 degree full body character turnaround sheet
+### 3D collectible figurine of yourself
 
-<a href="https://trypromptgenerator.com/p/360-degree-full-body-character-turnaround-sheet"><img src="https://trypromptgenerator.com/library/360-degree-full-body-character-turnaround-sheet.webp" width="220" alt="360 degree full body character turnaround sheet: result on Nano Banana Pro"></a>
+<a href="https://trypromptgenerator.com/p/3d-figurine-on-desk"><img src="https://trypromptgenerator.com/library/3d-figurine-on-desk.webp" width="220" alt="3D collectible figurine of yourself: result on Nano Banana Pro"></a>
 
 **Model:** Nano Banana Pro | **Aspect ratio:** 1:1
 
 ```text
-A 360 turnaround full body view of the subject, straight in 4 different angles. Front view, half turn, side profile, back view. 
-Full-body shots, all white background.
+Create a 1/7 scale collectible figurine of the person in my uploaded photo, with their face, hairstyle and clothes matched exactly. The figurine stands on a round clear acrylic base on a wooden desk. Behind it on the desk is a printed collector's box with the same figure's artwork on the front, and a computer monitor showing the figurine's 3D model in modelling software. Realistic product photography, soft daylight from a window, shallow depth of field, square 1:1 frame.
 ```
 
-Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/templates-character_sheet.json) by Comfy Org, MIT licence.
-
-[Result, breakdown and variations →](https://trypromptgenerator.com/p/360-degree-full-body-character-turnaround-sheet)
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/3d-figurine-on-desk)
 
 ### Cute glowing ghost desktop ornament on a cozy table
 
@@ -287,19 +284,19 @@ Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/wor
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/cute-glowing-ghost-desktop-ornament-on-a-cozy-table)
 
-### Cute retro mini car with pastel flowers in a spring setting
+### Fox explorer toy figurine in a kid's bedroom
 
-<a href="https://trypromptgenerator.com/p/cute-retro-mini-car-with-pastel-flowers-in-a-spring-setting"><img src="https://trypromptgenerator.com/library/cute-retro-mini-car-with-pastel-flowers-in-a-spring-setting.webp" width="220" alt="Cute retro mini car with pastel flowers in a spring setting: result on FLUX.2 [pro]"></a>
+<a href="https://trypromptgenerator.com/p/fox-explorer-toy-figurine-kids-bedroom"><img src="https://trypromptgenerator.com/library/fox-explorer-toy-figurine-kids-bedroom.webp" width="220" alt="Fox explorer toy figurine in a kid&#x27;s bedroom: result on Nano Banana"></a>
 
-**Model:** FLUX.2 [pro] | **Aspect ratio:** 1:1
+**Model:** Nano Banana | **Aspect ratio:** 1:1
 
 ```text
-Create a 3D - styled image: A cute, retro - looking mini car with soft, pastel - colored flowers (like daisies, pink blooms) overflowing from it. Set against a gentle green background, giving a fresh, spring - vibe. Make it look whimsical and delicate, like a sweet illustration.
+A plastic toy figurine of a cute fox explorer wearing a safari hat, a blue scarf and a small backpack, holding a magnifying glass. It stands on a soft rug in a bright kid's bedroom with toy blocks, toy cars and a world map on the wall, blurred behind. Macro toy photography, shallow depth of field, natural light.
 ```
 
-Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/flux_schnell_full_text_to_image.json) by Comfy Org, MIT licence.
+Credit: prompt adapted from [GitHub](https://github.com/google-gemini/cookbook/blob/89fe4a0f98/quickstarts/Get_Started_Nano_Banana.ipynb) by Google Gemini cookbook team, Apache 2.0 licence.
 
-[Result, breakdown and variations →](https://trypromptgenerator.com/p/cute-retro-mini-car-with-pastel-flowers-in-a-spring-setting)
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/fox-explorer-toy-figurine-kids-bedroom)
 
 ### Superman gummy candy figurine with sugar coating
 
@@ -315,11 +312,11 @@ Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/wor
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/superman-gummy-candy-figurine-with-sugar-coating)
 
-[See all 7 in this category →](prompts/3d-figurine-prompts.md)
+[See all 11 in this category →](prompts/3d-figurine-prompts.md)
 
 ## AI product photo prompts
 
-Product shots for ads, listings and packaging. 11 prompts in this category, 4 shown here. [See all 11](prompts/product-photo-prompts.md).
+Product shots for ads, listings and packaging. 35 prompts in this category, 4 shown here. [See all 35](prompts/product-photo-prompts.md).
 
 ### 3D product packaging box from a flat dieline
 
@@ -334,6 +331,20 @@ Assemble the dieline into a perfectly folded 3D box with accurate panel placemen
 Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/templates-assemble_dieline.json) by Comfy Org, MIT licence.
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/3d-product-packaging-box-from-a-flat-dieline)
+
+### Amber perfume bottle with organza ribbon, transparent PNG packshot
+
+<a href="https://trypromptgenerator.com/p/amber-faceted-perfume-bottle-organza-ribbon-transparent-png"><img src="https://trypromptgenerator.com/library/amber-faceted-perfume-bottle-organza-ribbon-transparent-png.webp" width="220" alt="Amber perfume bottle with organza ribbon, transparent PNG packshot: result on GPT Image 2"></a>
+
+**Model:** GPT Image 2 | **Aspect ratio:** 2:3
+
+```text
+A single luxury eau-de-parfum bottle as a cut-out product asset on a transparent background. A tall rectangular bottle of thick clear glass with bevelled, softly rounded edges, filled with warm golden-amber fragrance, with a short brushed-gold collar and a heavy faceted crystal stopper on top. A sheer ivory organza ribbon is tied loosely around the neck, one airy translucent tail drifting to the side. Realistic glass refraction and highlights, studio packshot lighting, straight-on front view, centred. No label, no text, no cast shadow and nothing outside the object, with clean alpha edges ready to drop into a campaign layout.
+```
+
+Credit: prompt adapted from [GitHub](https://github.com/openai/openai-cookbook/blob/2658c92cd4cd562504571b9d7491fc51524a7dc9/examples/multimodal/transparent-image-assets-for-campaigns-and-presentations.ipynb) by OpenAI (openai-cookbook, transparent image assets cookbook), MIT licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/amber-faceted-perfume-bottle-organza-ribbon-transparent-png)
 
 ### Beauty product close up with model applying pink lipstick
 
@@ -355,85 +366,25 @@ Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/wor
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/beauty-product-close-up-with-model-applying-pink-lipstick)
 
-### Composite a product into a scene with realistic material relighting
+### Brown leather boots on a wooden shoe rack
 
-<a href="https://trypromptgenerator.com/p/composite-a-product-into-a-scene-with-realistic-material-relighting"><img src="https://trypromptgenerator.com/library/composite-a-product-into-a-scene-with-realistic-material-relighting.webp" width="220" alt="Composite a product into a scene with realistic material relighting: result on Seedream 4.5"></a>
+<a href="https://trypromptgenerator.com/p/brown-leather-boots-wooden-shoe-rack"><img src="https://trypromptgenerator.com/library/brown-leather-boots-wooden-shoe-rack.webp" width="220" alt="Brown leather boots on a wooden shoe rack: result on FLUX.2 [pro]"></a>
 
-**Model:** Seedream 4.5 | **Aspect ratio:** 1:1
-
-```text
-Task: Realistic Product Compositing with Material Preservation Goal: Insert the product from Input 2 into Input 1, ensuring placement is logical and lighting interacts accurately with the product's specific material properties.
-
-Input Image(s):
-
-Input 1 (Scene)
-Input 2 (Product): {product_description}
-
-Manual Material Breakdown (Critical): To ensure correct light interaction, treat the product as having the following physical properties:
-
-Primary Material: [e.g., Matte Plastic / Brushed Aluminum / Clear Glass]
-
-Reflectivity: [e.g., Low (dull reflections) / High (mirror-like)]
-
-Texture: [e.g., Smooth / Grainy / Porous]
-
-Reaction to Light: [e.g., "Should absorb light with soft highlights, no sharp glares"]
-
-Secondary Material (if any): [e.g., Gold Foil Label / Glossy Cap]
-
-Reaction to Light: [e.g., "Should catch sharp, bright specular highlights from the environment"]
-
-Process:
-Scene Analysis: Identify the logical ground plane/surface in Input 1.
-
-Placement: Scale Input 2 uniformly (maintain aspect ratio) and place it on the surface.
-
-Material-Based Relighting:
-
-Do not simply overlay the scene colors onto the product.
-Instead, map the environment light from Input 1 onto the contours of Input 2 based on the material definitions above.
-
-Example: If the material is Matte, only the edge lighting and general ambient tone should change; do not add sharp reflections.
-
-Example: If the material is Glossy, reflect the scene's details on the surface.
-
-Shadows: Generate contact shadows that match the hardness/softness of shadows in the rest of the scene.
-
-Technical Requirements:
-Albedo Preservation: The intrinsic color of the product (e.g., "Brand Red") must not be washed out by the scene's lighting color.
-
-Texture Fidelity: Do not smooth out surface details (grain, bumps) during the blending process.
-
-Scaling: No non-uniform stretching.
-
-Output: A composite where the lighting confirms the materiality of the product (e.g., makes the plastic look like plastic, not metal).
-```
-
-Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/templates-product_scene_relight.json) by Comfy Org, MIT licence.
-
-[Result, breakdown and variations →](https://trypromptgenerator.com/p/composite-a-product-into-a-scene-with-realistic-material-relighting)
-
-### Exploded view of a car with every part laid out in order
-
-<a href="https://trypromptgenerator.com/p/exploded-view-of-a-car-with-every-part-laid-out-in-order"><img src="https://trypromptgenerator.com/library/exploded-view-of-a-car-with-every-part-laid-out-in-order.webp" width="220" alt="Exploded view of a car with every part laid out in order: result on Nano Banana 2"></a>
-
-**Model:** Nano Banana 2 | **Aspect ratio:** 1:1
+**Model:** FLUX.2 [pro] | **Aspect ratio:** 1:1
 
 ```text
-Slowly, its real physical components begin separating along natural assembly seams, transitioning into a clean, fully exploded view. Exterior casing, covers, buttons, ports, and internal structural parts separate in correct order and alignment, maintaining accurate scale and physical logic.
-
- No dialogue, no narration, no voiceover - only visual motion.
+A pair of worn brown leather lace-up work boots stands on top of a simple light wooden shoe rack against a white wall. Soft daylight, natural home setting, sharp detail on the leather creases and laces, lifestyle product photo.
 ```
 
-Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/template_eric_exploded_view.json) by Comfy Org, MIT licence.
+Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/Rapidata/Flux-2-pro_t2i_human_preference) by Rapidata, CDLA Permissive 2.0 licence.
 
-[Result, breakdown and variations →](https://trypromptgenerator.com/p/exploded-view-of-a-car-with-every-part-laid-out-in-order)
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/brown-leather-boots-wooden-shoe-rack)
 
-[See all 11 in this category →](prompts/product-photo-prompts.md)
+[See all 35 in this category →](prompts/product-photo-prompts.md)
 
 ## AI art and image prompts (FLUX, Qwen Image, Recraft)
 
-Text-to-image prompts: illustration, posters, characters, photoreal scenes. 62 prompts in this category, 4 shown here. [See all 62](prompts/ai-art-prompts.md).
+Text-to-image prompts: illustration, posters, characters, photoreal scenes. 289 prompts in this category, 4 shown here. [See all 289](prompts/ai-art-prompts.md).
 
 ### A bunny dog and cat having a tea party at a small table
 
@@ -449,60 +400,53 @@ Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/wor
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/a-bunny-dog-and-cat-having-a-tea-party-at-a-small-table)
 
-### Animals as astronauts inside a futuristic space capsule
+### Abandoned greenhouse overgrown with jungle in rainy mist
 
-<a href="https://trypromptgenerator.com/p/animals-as-astronauts-inside-a-futuristic-space-capsule"><img src="https://trypromptgenerator.com/library/animals-as-astronauts-inside-a-futuristic-space-capsule.webp" width="220" alt="Animals as astronauts inside a futuristic space capsule: result on Seedream 4.5"></a>
+<a href="https://trypromptgenerator.com/p/abandoned-greenhouse-overgrown-jungle-rainy-mist"><img src="https://trypromptgenerator.com/library/abandoned-greenhouse-overgrown-jungle-rainy-mist.webp" width="220" alt="Abandoned greenhouse overgrown with jungle in rainy mist: result on GPT Image 2"></a>
 
-**Model:** Seedream 4.5 | **Aspect ratio:** 1:1
-
-```text
-A panoramic lens inside the space capsule is used, presenting a eye-level view that can show most of the space inside the capsule. In the frame, a monkey in a silver-white spacesuit is intently operating the buttons on the console; next to it, a giraffe, also in a spacesuit, uses its long neck to easily check the instrument panel at a high position; an elephant is securing a large experimental container with its sturdy legs, diligently conducting space experiments; a kangaroo places its joey into a specially made space baby capsule and is checking the life support system inside the capsule itself; there is also a penguin, gliding nimbly inside the capsule, responsible for delivering small experimental samples. Overall, the animals are portrayed as astronauts, creating a novel and busy space exploration scene inside the technologically advanced space capsule. Suspended in the middle of the frame is a huge three-dimensional "C" symbol with a glass-like texture, glowing. It is a smooth three-dimensional character with a metallic texture, and the metal shimmers with colorful halos, being a metal art piece that becomes the focal point of the frame.
-```
-
-Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_bytedance_seedream4.json) by Comfy Org, MIT licence.
-
-[Result, breakdown and variations →](https://trypromptgenerator.com/p/animals-as-astronauts-inside-a-futuristic-space-capsule)
-
-### Apocalyptic wasteland merchant game character design sheet
-
-<a href="https://trypromptgenerator.com/p/apocalyptic-wasteland-merchant-game-character-design-sheet"><img src="https://trypromptgenerator.com/library/apocalyptic-wasteland-merchant-game-character-design-sheet.webp" width="220" alt="Apocalyptic wasteland merchant game character design sheet: result on Qwen Image 3"></a>
-
-**Model:** Qwen Image 3 | **Aspect ratio:** 1:1
+**Model:** GPT Image 2 | **Aspect ratio:** 9:16
 
 ```text
-The reference image is an apocalyptic wasteland-style armed traveling merchant character. Based on this character, generate a 1:1 square character sheet in game character design document style.
-The layout is divided into four blocks on a light gray background with thin line-frame sections:
-1. Top-left: full-body standing illustration. Keep ALL features from the reference: a dark wide-brimmed hat or large hood, dark reddish-brown skin, dark tactical underlayer, a bright camel-colored long coat, dark trousers and boots, holding a long rifle, a weapon strapped to the back, and packs of goods piled at the feet. Figure centered, single side lighting.
-2. Top-right: close-up of the head. Show the face under the hat brim: dark reddish-brown skin, facial contours, goggles or mask details, the hat's material texture.
-3. Bottom-left: costume and accessory breakdown. Show the camel coat's cut, the dark underlayer, belt and gloves, boots, with key parts annotated.
-4. Bottom-right: character info card with text: name "Wandering Merchant", occupation "Wasteland Trader", tags "Armed Caravan / Lone Traveler / Trade and Survival".
-Overall: realistic 3D concept art style, low-saturation palette (cool gray-green, warm camel, dark brown), clear accurate text, information-dense but not crowded, like a game art character sheet.
-Must preserve the character identity from the reference: the headwear, skin tone, coat colors, weapon and goods must not change.
+A moody vertical photo inside an abandoned glass greenhouse taken over by jungle. Dark iron frames and cloudy, broken glass panes form a peaked roof, with vines and hanging moss trailing down from the beams. Lush ferns, broad tropical leaves and palms crowd both sides of a wet, leaf-strewn stone path that runs toward misty glass walls at the back. A rusty metal mesh bench sits half hidden in the plants on the right. Rain-soaked, overcast light filtering through fog, deep greens and charcoal shadows, eye-level shot, quiet and atmospheric, 9:16 frame.
 ```
 
-Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_qwen3_image_edit.json) by Comfy Org, MIT licence.
+Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/luka0x12/Liminal-Dreamcore-1K) by Luka (HF luka0x12 / github Luka12-dev), MIT licence.
 
-[Result, breakdown and variations →](https://trypromptgenerator.com/p/apocalyptic-wasteland-merchant-game-character-design-sheet)
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/abandoned-greenhouse-overgrown-jungle-rainy-mist)
 
-### Athletic runner sprinting in a glowing amber studio
+### Aerial view of a green coastline and turquoise sea
 
-<a href="https://trypromptgenerator.com/p/athletic-runner-sprinting-in-a-glowing-amber-studio"><img src="https://trypromptgenerator.com/library/athletic-runner-sprinting-in-a-glowing-amber-studio.webp" width="220" alt="Athletic runner sprinting in a glowing amber studio: result on Seedream 5.0 Lite"></a>
+<a href="https://trypromptgenerator.com/p/aerial-coastline-turquoise-water-clouds"><img src="https://trypromptgenerator.com/library/aerial-coastline-turquoise-water-clouds.webp" width="220" alt="Aerial view of a green coastline and turquoise sea: result on Nano Banana Pro"></a>
 
-**Model:** Seedream 5.0 Lite | **Aspect ratio:** 1:1
+**Model:** Nano Banana Pro | **Aspect ratio:** 1:1
 
 ```text
-High-fashion sports magazine editorial video. A powerful athletic runner sprinting forward across the frame against a glowing monochromatic amber-orange studio background. Artistic motion blur trails capturing explosive speed and fluid movement. Minimalist sleek black compression sportswear, no logos. Dramatic rim lighting, deep contrast shadows, dynamic high-impact composition, cinematic 4k aesthetic.
+A satellite-style top-down view of a curving green coastline with turquoise water, white surf along the shore and small clouds casting soft shadows on the land.
 ```
 
-Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_bytedance_seedream_5_0_flash_t2i.json) by Comfy Org, MIT licence.
+Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/Rapidata/bananamark-dataset) by Rapidata, CDLA Permissive 2.0 licence.
 
-[Result, breakdown and variations →](https://trypromptgenerator.com/p/athletic-runner-sprinting-in-a-glowing-amber-studio)
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/aerial-coastline-turquoise-water-clouds)
 
-[See all 62 in this category →](prompts/ai-art-prompts.md)
+### Anglerfish with a glowing lure in the deep sea
+
+<a href="https://trypromptgenerator.com/p/anglerfish-glowing-lure-deep-sea"><img src="https://trypromptgenerator.com/library/anglerfish-glowing-lure-deep-sea.webp" width="220" alt="Anglerfish with a glowing lure in the deep sea: result on Nano Banana"></a>
+
+**Model:** Nano Banana | **Aspect ratio:** 16:9
+
+```text
+A deep-sea anglerfish lurks in pitch-black water with its jagged teeth bared and its bioluminescent lure glowing bright cyan above its head. Tiny particles drift through the water. Cinematic wide shot, dark background, sharp detail on the fish's rough skin.
+```
+
+Credit: prompt adapted from [Google Gemini API docs](https://ai.google.dev/gemini-api/docs/video) by Google (Gemini API docs team), CC BY 4.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/anglerfish-glowing-lure-deep-sea)
+
+[See all 289 in this category →](prompts/ai-art-prompts.md)
 
 ## Cinematic AI video prompts (Seedance, Veo, Wan)
 
-Shot-by-shot video prompts with camera moves, light and sound. 43 prompts in this category, 4 shown here. [See all 43](prompts/cinematic-video-prompts.md).
+Shot-by-shot video prompts with camera moves, light and sound. 91 prompts in this category, 4 shown here. [See all 91](prompts/cinematic-video-prompts.md).
 
 ### Abandoned greenhouse, slow dolly through light shafts
 
@@ -521,6 +465,24 @@ Duration: 5 seconds.
 ```
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/abandoned-greenhouse-dolly-in)
+
+### Aerial view of synchronized swimmers forming a ring in a clear lake
+
+<a href="https://trypromptgenerator.com/p/synchronized-swimmers-aerial-clear-lake"><img src="https://trypromptgenerator.com/library/video/synchronized-swimmers-aerial-clear-lake.webp" width="220" alt="Aerial view of synchronized swimmers forming a ring in a clear lake: poster frame on Veo 3.1"></a>
+
+**Model:** Veo 3.1 | **Aspect ratio:** 16:9 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
+
+```text
+A team of synchronized swimmers in red swimsuits and white caps float in a ring in a crystal-clear lake and move together.
+Shot: a top-down aerial shot that slowly lowers; the swimmers draw in toward the centre, sending circular ripples across the water.
+Setting and light: soft late-afternoon sunlight glinting on the turquoise water, visible light patterns on the shallow bottom.
+Style: cinematic and graceful, clean turquoise and red, symmetrical composition.
+Duration: 6 seconds.
+```
+
+Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/Rapidata/text-2-video-human-preferences-veo3.1) by Rapidata, Apache 2.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/synchronized-swimmers-aerial-clear-lake)
 
 ### Angel warrior fighting demons in a cinematic fantasy battle
 
@@ -564,25 +526,11 @@ Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/wor
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/astronaut-walking-toward-a-massive-rotating-alien-ring-structure)
 
-### Bear and dog playing chess in a cozy room
-
-<a href="https://trypromptgenerator.com/p/bear-and-dog-playing-chess-in-a-cozy-room"><img src="https://trypromptgenerator.com/library/video/bear-and-dog-playing-chess-in-a-cozy-room.webp" width="220" alt="Bear and dog playing chess in a cozy room: poster frame on Wan 2.7"></a>
-
-**Model:** Wan 2.7 | **Aspect ratio:** 16:9 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
-
-```text
-Replace the two elderly men with the bear from image1 and the dog from image2. The bear sits on the left side of the chess table, the dog sits on the right. Both retain the original chess-playing posture and movements. Keep the wooden table, chess pieces, warm lamp lighting, and cozy room atmosphere unchanged. Add ambient sounds of a crackling fireplace and the soft click of chess pieces being placed.
-```
-
-Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_wan2_7_video_edit.json) by Comfy Org, MIT licence.
-
-[Result, breakdown and variations →](https://trypromptgenerator.com/p/bear-and-dog-playing-chess-in-a-cozy-room)
-
-[See all 43 in this category →](prompts/cinematic-video-prompts.md)
+[See all 91 in this category →](prompts/cinematic-video-prompts.md)
 
 ## Product video prompts
 
-Short product clips for ads and store pages. 12 prompts in this category, 4 shown here. [See all 12](prompts/product-video-prompts.md).
+Short product clips for ads and store pages. 13 prompts in this category, 4 shown here. [See all 13](prompts/product-video-prompts.md).
 
 ### Earbuds case opening, product close-up
 
@@ -601,6 +549,20 @@ Duration: 5 seconds.
 ```
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/earbuds-case-opening-close-up)
+
+### Backpack commercial: rider jumps on a motorbike
+
+<a href="https://trypromptgenerator.com/p/backpack-commercial-rider-jumps-on-motorbike"><img src="https://trypromptgenerator.com/library/video/backpack-commercial-rider-jumps-on-motorbike.webp" width="220" alt="Backpack commercial: rider jumps on a motorbike: poster frame on Veo 3.1"></a>
+
+**Model:** Veo 3.1 | **Aspect ratio:** 16:9 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
+
+```text
+Using my uploaded product photo of a backpack, a playful, over-the-top commercial video: a rider in a leather jacket puts on the red backpack beside his motorbike on an empty desert road at sunset, leaps onto the bike in one jump and roars off toward the setting sun. The backpack stays exactly as in the photo. Warm golden light, low camera, cinematic lens flare.
+```
+
+Credit: prompt adapted from [GitHub](https://github.com/google-gemini/cookbook/blob/3912d054f3/quickstarts/Get_started_Veo.ipynb (cells 63-66)) by Google Gemini cookbook team, Apache 2.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/backpack-commercial-rider-jumps-on-motorbike)
 
 ### Cinematic car commercial in a blue studio
 
@@ -655,28 +617,11 @@ Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/wor
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/cinematic-floating-sneaker-product-showcase)
 
-### Surreal character transition into a minimalist smartphone screen
-
-<a href="https://trypromptgenerator.com/p/surreal-character-transition-into-a-minimalist-smartphone-screen"><img src="https://trypromptgenerator.com/library/video/surreal-character-transition-into-a-minimalist-smartphone-screen.webp" width="220" alt="Surreal character transition into a minimalist smartphone screen: poster frame on Grok Imagine Video 1.5"></a>
-
-**Model:** Grok Imagine Video 1.5 | **Aspect ratio:** 1:1 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
-
-```text
-Surreal video, film-level smooth camera movement, minimalist futuristic feel, light blue and white cool color tones, clean light gray background
-1. The smartphone rotates to the front, and the screen lights up slightly
-2. At the same time, a character wearing a pure white non-sheer long dress appears in front of the frame, transitioning from transparent to opaque. The image is complete and dignified, with a sense of tranquility. The character is gently rotated by an invisible force and pulled into the internal space of the phone
-3. Finally, the character rotates 360 degrees in the phone
-```
-
-Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_grok_reference_to_video.json) by Comfy Org, MIT licence.
-
-[Result, breakdown and variations →](https://trypromptgenerator.com/p/surreal-character-transition-into-a-minimalist-smartphone-screen)
-
-[See all 12 in this category →](prompts/product-video-prompts.md)
+[See all 13 in this category →](prompts/product-video-prompts.md)
 
 ## Social video prompts for Reels, TikTok and Shorts
 
-Vertical clips made for short-form feeds. 9 prompts in this category, 4 shown here. [See all 9](prompts/social-video-prompts.md).
+Vertical clips made for short-form feeds. 43 prompts in this category, 4 shown here. [See all 43](prompts/social-video-prompts.md).
 
 ### Cozy desk lamp reveal for Reels
 
@@ -696,73 +641,53 @@ Duration: 5 seconds, vertical 9:16.
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/cozy-desk-lamp-reveal-vertical)
 
-### Latte art pour from above
+### "Hot ice" crystal tower growing from a poured solution
 
-<a href="https://trypromptgenerator.com/p/latte-art-pour-overhead"><img src="https://trypromptgenerator.com/library/video/latte-art-pour-overhead.webp" width="220" alt="Latte art pour from above: poster frame on Seedance 2.0"></a>
+<a href="https://trypromptgenerator.com/p/hot-ice-crystal-tower-grows-from-poured-solution"><img src="https://trypromptgenerator.com/library/video/hot-ice-crystal-tower-grows-from-poured-solution.webp" width="220" alt="&quot;Hot ice&quot; crystal tower growing from a poured solution: poster frame on Veo 3.1"></a>
 
-**Model:** Seedance 2.0 | **Aspect ratio:** 9:16 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
-
-```text
-Top-down close-up of a wide white cup of espresso on a light wood cafe counter.
-Motion: an adult barista's hand tilts a small steel jug and pours steamed milk in a thin stream, drawing a heart in the crema.
-Camera: locked overhead, then a slow push-in on the finished heart.
-Setting and light: bright morning daylight from a window, soft shadows, a few coffee beans on the counter.
-Style: satisfying cafe video, crisp detail on the milk and crema, natural colours.
-Sound: the hiss of milk pouring, quiet cafe chatter.
-Duration: 5 seconds, vertical 9:16.
-```
-
-[Result, breakdown and variations →](https://trypromptgenerator.com/p/latte-art-pour-overhead)
-
-### Streetwear fashion showcase with interlaced typography
-
-<a href="https://trypromptgenerator.com/p/streetwear-fashion-showcase-with-interlaced-typography"><img src="https://trypromptgenerator.com/library/video/streetwear-fashion-showcase-with-interlaced-typography.webp" width="220" alt="Streetwear fashion showcase with interlaced typography: poster frame on MiniMax Hailuo 2.3"></a>
-
-**Model:** MiniMax Hailuo 2.3 | **Aspect ratio:** 1:1 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
+**Model:** Veo 3.1 | **Aspect ratio:** 16:9 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
 
 ```text
-integrated_multimodal_description: [Shot 1] Cinematic, a wide-angle shot filmed from an extreme low-angle, worm's-eye perspective. In the extreme foreground of the square frame, a massive tan suede work boot features a thick, chunky brown rubber sole and tightly laced brown shoelaces, rendered slightly out of focus. Above the boot, a young adult man wears loose-fitting, olive green cargo pants, an unbuttoned dark navy blue heavy-cotton overshirt, and a tan baseball cap. He has a serious expression, looking directly down into the lens. Behind him, a modern skyscraper made of reflective glass panels stretches into an overcast, pale grey sky. Large, bold, white typography reading "STREETWEAR" bursts into the frame, positioned seamlessly between the man's back and the skyscraper, creating a three-dimensional interlaced title sequence effect. The man lowers his raised foot, and the massive tan boot descends rapidly, striking the pavement. He then raises both hands to adjust his cap's brim. The camera pushes in slowly, intensifying the visual scale of the figure and the floating text. [Shot 2] At 00:02.100, the camera cuts to a medium shot from a slightly elevated low-angle vantage point. The man from Shot 1 now stands fully planted on the ground against the sheer glass facade of the skyscraper. Fast-paced, neon-yellow text reading "VOL. 1" flashes rapidly in the extreme foreground, momentarily overlapping his navy jacket. He drops his hands and executes a sharp, forceful turn of his shoulders to the right, striking a dynamic, angular pose. His jacket flares out, revealing a neutral-toned t-shirt underneath. His gaze shifts away from the camera, looking off into the distance. The camera arcs right at a medium speed, tracking his rotation and capturing the shifting reflections of the city on the glass building behind him. [Shot 3] At 00:03.600, the camera cuts to a wide tracking shot positioned just above the pavement level. The man from Shot 1 strides purposefully forward along the grey concrete sidewalk. Clean, white typography reading "AVAILABLE NOW" scrolls vertically down the right side of the frame, weaving behind his swinging right arm to maintain the interlaced text aesthetic. The focus is directed toward the lower half of his body, highlighting the movement of his olive green cargo pants as they wrinkle dynamically. His heavy tan boots stomp rhythmically on the concrete. The camera pulls out at a fast speed, maintaining a constant distance just ahead of his advancing boots while the vertical grid lines of the skyscraper blur in the background.
-overall_soundscape: A faint, continuous urban hum of distant city traffic provides a subtle ambient baseline. A loud, resonant thud is heard prominently in the foreground as the heavy tan boot strikes the concrete pavement, followed by the crisp, audible rustle of thick cotton and denim as the man adjusts his cap. When the shot changes, a sharp, distinct swish of heavy fabric accompanies his sudden shoulder rotation. Finally, a rhythmic series of heavy, pronounced footsteps - thick rubber soles slapping firmly against the concrete - dominates the foreground, accompanied by the continuous, rough rustling of cargo pants.
-non_diegetic_music: Electronic bass music, fast tempo, featuring a heavy, rhythmic drum machine beat, deep synthesizer drones, and sudden aggressive bass drops with no melodic swell.
+A bright, minimal science close-up on a white tabletop: a hand tilts a glass beaker and pours a thin, clear stream of supersaturated sodium acetate solution into a small glass dish. The instant the liquid touches the dish it turns solid, and a white, frosty crystal column climbs upward under the stream, branching and stacking into a tall tower while loose crystal flakes spill around the dish. Soft white studio light, static camera, shallow depth of field. Sound: a quiet trickle of liquid, then the faint crisp crackle of crystals forming in a silent room.
 ```
 
-Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/video_fastvideo_fasth3_t2v.json) by Comfy Org, MIT licence.
+Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/microsoft/AVGen-Bench) by Microsoft Research (AVGen-Bench: Ziwei Zhou, Zeyuan Lai, Rui Wang, et al.), MIT licence.
 
-[Result, breakdown and variations →](https://trypromptgenerator.com/p/streetwear-fashion-showcase-with-interlaced-typography)
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/hot-ice-crystal-tower-grows-from-poured-solution)
 
-### Stylish friends in a high energy 2D vector animation
+### Dry ice in a beaker of water, thick white fog spilling over
 
-<a href="https://trypromptgenerator.com/p/stylish-friends-in-a-high-energy-2d-vector-animation"><img src="https://trypromptgenerator.com/library/video/stylish-friends-in-a-high-energy-2d-vector-animation.webp" width="220" alt="Stylish friends in a high energy 2D vector animation: poster frame on Seedance 2.5"></a>
+<a href="https://trypromptgenerator.com/p/dry-ice-beaker-thick-white-fog-spills-over-table"><img src="https://trypromptgenerator.com/library/video/dry-ice-beaker-thick-white-fog-spills-over-table.webp" width="220" alt="Dry ice in a beaker of water, thick white fog spilling over: poster frame on Veo 3.1 Fast"></a>
 
-**Model:** Seedance 2.5 | **Aspect ratio:** 3:4 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
+**Model:** Veo 3.1 Fast | **Aspect ratio:** 16:9 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
 
 ```text
-A high-energy 2D flat vector animation, 5 seconds, in a bold contemporary editorial-illustration style: clean black ink outlines, smooth gradient shading, oversized proportions, and a saturated palette of hot pink, tangerine orange, electric violet, and soft blush white. Three stylish young friends wear oversized cropped sweatshirts, baggy track pants, baseball caps, and chunky platform sneakers with pastel laces while sipping boba milk tea. The mood is joyful, confident, and fashion-forward, like a trendy streetwear campaign cut rhythmically to an upbeat hip-hop beat.
-
-Shot 1 (0 - 0.8s): Extreme close-up of a chunky orange sneaker stomping down on the beat against a glowing pink gradient backdrop, sending a burst of graphic sparkle shapes outward. Snap zoom out.
-
-Shot 2 (0.8 - 1.6s): Whip pan to a low-angle hero shot. The three friends strike a layered group pose and sip boba in perfect sync. Tapioca pearls bounce inside the cups, and the center girl's long black hair flows in a stylized wave. A subtle camera push-in adds swagger.
-
-Shot 3 (1.6 - 2.5s): Match cut on a cup raise into a new scene: a sunlit neon city crosswalk with pastel storefronts and graphic halftone shadows. The trio struts toward camera in a tracking shot, with oversized pants swishing and a cap tilted with attitude. Slight speed-ramp slow motion on a mid-stride pose.
-
-Shot 4 (2.5 - 3.4s): Quick-cut montage in rapid succession. A close-up of a straw pierces a boba lid with a pop. A side profile shows a friend flipping a cap backward. Violet sneakers spin in a playful dance step over a graffiti-covered skate-park ramp at golden hour. Dynamic Dutch angles and punchy zoom transitions sync to each beat.
-
-Shot 5 (3.4 - 4.3s): Overhead rooftop shot at sunset against a pink-orange sky. The friends laugh and bump boba cups together in a cheers, and a splash of illustrated milk-tea droplets freezes mid-air.
-
-Shot 6 (4.3 - 5s): Smash cut back to the original glowing pink gradient studio. The trio lands in their signature stacked pose from the reference illustration, then gives a final confident sip and a knowing look to camera. Radial light rays pulse behind them, and the camera settles into a crisp freeze-frame finish.
-
-Style notes: Fluid, bouncy character animation with squash-and-stretch energy. Use snappy editorial pacing with whip pans, match cuts, and speed ramps. Apply a subtle paper-grain texture, soft bloom glow, and a trendy Gen-Z street-culture aesthetic. Keep the look polished and premium, like a fashion brand commercial. Maintain consistent character design and color harmony across every scene.
+A moody lab-table shot against a dark navy background: gloved hands use metal tongs to drop a chunk of dry ice into a clear glass beaker of water. The water erupts into rolling bubbles and dense white fog billows up, overflows the rim and pours down the sides, spreading across the black tabletop in slow, heavy waves until the beaker is wrapped in mist. Static camera at table height, soft top light catching the fog. Sound: a metallic clink, a plop, then a loud continuous fizzing gurgle under a low rush of vapour.
 ```
 
-Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_seedance2_5_draft_i2v.json) by Comfy Org, MIT licence.
+Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/microsoft/AVGen-Bench) by Microsoft Research (AVGen-Bench: Ziwei Zhou, Zeyuan Lai, Rui Wang, et al.), MIT licence.
 
-[Result, breakdown and variations →](https://trypromptgenerator.com/p/stylish-friends-in-a-high-energy-2d-vector-animation)
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/dry-ice-beaker-thick-white-fog-spills-over-table)
 
-[See all 9 in this category →](prompts/social-video-prompts.md)
+### Dumplings pleated, pan-fried, then steamed under a glass lid
+
+<a href="https://trypromptgenerator.com/p/dumplings-pleated-pan-fried-then-steamed-lid"><img src="https://trypromptgenerator.com/library/video/dumplings-pleated-pan-fried-then-steamed-lid.webp" width="220" alt="Dumplings pleated, pan-fried, then steamed under a glass lid: poster frame on Wan 2.6"></a>
+
+**Model:** Wan 2.6 | **Aspect ratio:** 16:9 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
+
+```text
+A close-up cooking video in three steps. Hands pinch and pleat a thin dumpling wrapper around its filling beside a row of finished dumplings. Then a dozen pleated dumplings sit in a black non-stick pan, their bottoms sizzling in hot oil, and a stream of water is poured in so it bubbles and steams fiercely. A glass lid is set on top, fogging with steam and condensation as the dumplings cook, and a hand reaches for the knob. Soft daylight, white tiled backsplash, static close camera. Sound: soft dough pinches, oil sizzle, a loud steamy hiss and the clink of the lid.
+```
+
+Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/microsoft/AVGen-Bench) by Microsoft Research (AVGen-Bench: Ziwei Zhou, Zeyuan Lai, Rui Wang, et al.), MIT licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/dumplings-pleated-pan-fried-then-steamed-lid)
+
+[See all 43 in this category →](prompts/social-video-prompts.md)
 
 ## Nature video prompts
 
-Landscapes, weather and wildlife for b-roll. 12 prompts in this category, 4 shown here. [See all 12](prompts/nature-video-prompts.md).
+Landscapes, weather and wildlife for b-roll. 30 prompts in this category, 4 shown here. [See all 30](prompts/nature-video-prompts.md).
 
 ### Forest waterfall, drone pull back
 
@@ -781,42 +706,6 @@ Duration: 5 seconds.
 ```
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/waterfall-gorge-drone-pull-back)
-
-### Hummingbird at a flower, slow motion macro
-
-<a href="https://trypromptgenerator.com/p/hummingbird-flower-slow-motion"><img src="https://trypromptgenerator.com/library/video/hummingbird-flower-slow-motion.webp" width="220" alt="Hummingbird at a flower, slow motion macro: poster frame on Seedance 2.0"></a>
-
-**Model:** Seedance 2.0 | **Aspect ratio:** 16:9 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
-
-```text
-A green-and-copper hummingbird hovers in front of a red tubular flower in a garden.
-Motion: slow motion, wings beating in a soft blur, the bird dips its beak into the flower, pulls back and hovers again.
-Camera: macro lens, steady at the bird's eye level, very shallow depth of field.
-Setting and light: late afternoon sun from behind, a glowing rim of light on the feathers, a creamy blurred green background.
-Style: wildlife documentary, high detail on the feathers, natural colours.
-Sound: the soft hum of wings, distant birdsong.
-Duration: 5 seconds.
-```
-
-[Result, breakdown and variations →](https://trypromptgenerator.com/p/hummingbird-flower-slow-motion)
-
-### Northern lights over a lake, vertical
-
-<a href="https://trypromptgenerator.com/p/northern-lights-lake-vertical"><img src="https://trypromptgenerator.com/library/video/northern-lights-lake-vertical.webp" width="220" alt="Northern lights over a lake, vertical: poster frame on Seedance 2.0"></a>
-
-**Model:** Seedance 2.0 | **Aspect ratio:** 9:16 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
-
-```text
-Green and violet northern lights ripple across a starry sky above a still mountain lake.
-Motion: the aurora curtains sway and pulse slowly, and their reflection moves on the glassy water.
-Camera: a slow tilt up from the reflection on the lake to the sky.
-Setting and light: snow-capped peaks in silhouette, a few pine trees on the shore, no moon.
-Style: night sky photography look, sharp stars, deep blacks, natural aurora colours.
-Sound: near silence, a soft wind across the water.
-Duration: 5 seconds, vertical 9:16.
-```
-
-[Result, breakdown and variations →](https://trypromptgenerator.com/p/northern-lights-lake-vertical)
 
 ### Bald eagle gliding over snowy mountain peaks
 
@@ -837,37 +726,68 @@ Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/Rapid
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/bald-eagle-glide-over-snowy-peaks)
 
-[See all 12 in this category →](prompts/nature-video-prompts.md)
+### Elephant walking through golden savanna dust
+
+<a href="https://trypromptgenerator.com/p/elephant-walking-through-golden-savanna-dust"><img src="https://trypromptgenerator.com/library/video/elephant-walking-through-golden-savanna-dust.webp" width="220" alt="Elephant walking through golden savanna dust: poster frame on Veo 3.1 Fast"></a>
+
+**Model:** Veo 3.1 Fast | **Aspect ratio:** 16:9 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
+
+```text
+A wildlife documentary video of a large African elephant on a dry savanna of red earth and pale grass, flat-topped acacia trees behind. It swings its trunk and throws dust over its back, sending a warm orange cloud drifting around its body, then strides slowly across the frame with its ears flapping and tusks catching the light. Late-afternoon sun, hazy golden air, low telephoto camera that tracks the walk. Sound: a dry rush of falling dust, a deep trunk exhale, heavy footfalls thudding into the ground and a low rumble.
+```
+
+Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/microsoft/AVGen-Bench) by Microsoft Research (AVGen-Bench: Ziwei Zhou, Zeyuan Lai, Rui Wang, et al.), MIT licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/elephant-walking-through-golden-savanna-dust)
+
+### Penguins waddling and belly-sliding on an icy shore
+
+<a href="https://trypromptgenerator.com/p/adelie-penguins-belly-sliding-icy-shore"><img src="https://trypromptgenerator.com/library/video/adelie-penguins-belly-sliding-icy-shore.webp" width="220" alt="Penguins waddling and belly-sliding on an icy shore: poster frame on Wan 2.6"></a>
+
+**Model:** Wan 2.6 | **Aspect ratio:** 16:9 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
+
+```text
+A wildlife documentary video of a colony of black and white Adelie penguins on a snowy, icy shoreline under an overcast sky, small icebergs floating in the grey sea behind them. Penguins waddle toward the camera with flippers held out, one drops onto its belly and slides across the packed snow, pushing with its feet, then the camera moves in low until a single penguin's head fills the frame. Natural cold daylight, eye-level camera. Sound: steady wind, a chorus of squawking calls and the soft scrape of a belly on snow.
+```
+
+Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/microsoft/AVGen-Bench) by Microsoft Research (AVGen-Bench: Ziwei Zhou, Zeyuan Lai, Rui Wang, et al.), MIT licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/adelie-penguins-belly-sliding-icy-shore)
+
+[See all 30 in this category →](prompts/nature-video-prompts.md)
 
 ## Prompts by model
 
 | Model | Kind | Prompts |
 |---|---|---|
-| Nano Banana Pro | Image | 56 |
-| Seedance 2.0 | Video | 35 |
-| FLUX.2 \[pro\] | Image | 23 |
+| FLUX.2 \[pro\] | Image | 139 |
+| Nano Banana Pro | Image | 114 |
+| Veo 3.1 | Video | 69 |
+| Seedance 2.0 | Video | 48 |
+| Z-Image Turbo | Image | 23 |
 | Qwen Image 3 | Image | 22 |
+| GPT Image 2 | Image | 21 |
+| Nano Banana | Image | 18 |
+| Grok Imagine Image 2.0 | Image | 14 |
+| Veo 3.1 Fast | Video | 11 |
+| FLUX.3 Image Klein | Image | 10 |
+| Nano Banana 2 | Image | 10 |
 | Recraft V4.1 | Image | 8 |
-| Veo 3.1 | Video | 8 |
 | MiniMax Hailuo 2.3 | Video | 7 |
-| Nano Banana 2 | Image | 7 |
-| Grok Imagine Image 2.0 | Image | 6 |
+| FLUX.2 \[klein\] 4B | Image | 6 |
 | Seedance 2.5 | Video | 6 |
 | Grok Imagine Video 1.5 | Video | 5 |
+| Wan 2.6 | Video | 5 |
 | GPT Image 2.5 Flare | Image | 4 |
 | Gemini Omni 1.2 Flash | Video | 4 |
 | Seedream 4.5 | Image | 4 |
 | Seedream 5.0 Lite | Image | 4 |
 | Wan 3.0 | Video | 4 |
 | FLUX.3 Image | Image | 3 |
-| GPT Image 2 | Image | 3 |
 | Wan 2.7 | Video | 3 |
 | FLUX.3 Video | Video | 2 |
 | MAI Image 2.6 | Image | 2 |
-| Nano Banana | Image | 2 |
 | Seedream 5.0 Pro | Image | 2 |
-| Z-Image Turbo | Image | 2 |
-| FLUX.2 \[klein\] 4B | Image | 1 |
 | GPT Image 1 Mini | Image | 1 |
 | Kling 3.0 Pro | Video | 1 |
 | Kling Video O1 | Video | 1 |
@@ -881,10 +801,34 @@ Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/Rapid
 
 ## Licence and credits
 
-- 70 prompts were written by Prompt Generator. Their text and titles are under [CC BY 4.0](LICENSE): credit "Prompt Generator (trypromptgenerator.com)" with a link.
+- 85 prompts were written by Prompt Generator. Their text and titles are under [CC BY 4.0](LICENSE): credit "Prompt Generator (trypromptgenerator.com)" with a link.
 - 142 prompts adapted from ComfyUI templates (Comfy Org) keep the original MIT licence. Each entry carries its own credit line with the source link.
-- 8 prompts adapted from Hugging Face (Rapidata) keep the original Apache 2.0 licence. Each entry carries its own credit line with the source link.
+- 140 prompts adapted from Hugging Face (Rapidata) keep the original CDLA Permissive 2.0 licence. Each entry carries its own credit line with the source link.
+- 45 prompts adapted from Hugging Face (Rapidata) keep the original Apache 2.0 licence. Each entry carries its own credit line with the source link.
+- 29 prompts adapted from Hugging Face (Microsoft Research (AVGen-Bench: Ziwei Zhou, Zeyuan Lai, Rui Wang, et al.)) keep the original MIT licence. Each entry carries its own credit line with the source link.
+- 19 prompts adapted from Google Gemini API docs (Google (Gemini API docs team)) keep the original CC BY 4.0 licence. Each entry carries its own credit line with the source link.
+- 12 prompts adapted from GitHub (Google Gemini cookbook team) keep the original Apache 2.0 licence. Each entry carries its own credit line with the source link.
+- 11 prompts adapted from Hugging Face (jiachengcui888) keep the original Apache 2.0 licence. Each entry carries its own credit line with the source link.
+- 10 prompts adapted from GitHub (Black Forest Labs) keep the original Apache 2.0 licence. Each entry carries its own credit line with the source link.
+- 9 prompts adapted from Hugging Face (sou35) keep the original MIT licence. Each entry carries its own credit line with the source link.
+- 8 prompts adapted from Hugging Face (Luka (HF luka0x12 / github Luka12-dev)) keep the original MIT licence. Each entry carries its own credit line with the source link.
+- 8 prompts adapted from Zenodo (Markos Konstantakis & Eleftheria Iakovaki) keep the original CC BY 4.0 licence. Each entry carries its own credit line with the source link.
+- 8 prompts adapted from Hugging Face (J1MSKY / The Mind Expansion Network) keep the original CC BY 4.0 licence. Each entry carries its own credit line with the source link.
+- 7 prompts adapted from GitHub (OpenAI (openai-cookbook, transparent image assets cookbook)) keep the original MIT licence. Each entry carries its own credit line with the source link.
+- 6 prompts adapted from Hugging Face (k-mktr) keep the original Apache 2.0 licence. Each entry carries its own credit line with the source link.
 - 6 prompts adapted from prompts.chat (f) keep the original CC0 1.0 licence. Each entry carries its own credit line with the source link.
+- 5 prompts adapted from Hugging Face (maxrs (HF user; HAW Hamburg master thesis "Behind the Scenes of Text-to-Image Models", 2026)) keep the original CC BY 4.0 licence. Each entry carries its own credit line with the source link.
+- 3 prompts adapted from Wikimedia Commons (FriedC) keep the original CC0 1.0 licence. Each entry carries its own credit line with the source link.
+- 3 prompts adapted from GitHub (OpenAI (openai-cookbook, GPT Image prompting guide)) keep the original MIT licence. Each entry carries its own credit line with the source link.
+- 3 prompts adapted from Hugging Face (ankurani (HF) - CultureScore authors (arXiv 2606.07311)) keep the original CC BY 4.0 licence. Each entry carries its own credit line with the source link.
+- 3 prompts adapted from Hugging Face (DealayLomoi) keep the original Apache 2.0 licence. Each entry carries its own credit line with the source link.
+- 2 prompts adapted from Hugging Face (FilmBench authors (Shengyi Wang et al.; HF user skylenage)) keep the original Apache 2.0 licence. Each entry carries its own credit line with the source link.
+- 2 prompts adapted from Hugging Face (Microsoft (AVGen-Bench: Ziwei Zhou, Zeyuan Lai, Rui Wang et al.)) keep the original MIT licence. Each entry carries its own credit line with the source link.
+- 1 prompt adapted from Hugging Face (Anku Rani, Wei Dai, Shravan Nayak, Pattie Maes, Mahdi M. Kalayeh, Paul Pu Liang (CultureScore)) keeps the original CC BY 4.0 licence. Each entry carries its own credit line with the source link.
+- 1 prompt adapted from Wikimedia Commons (VulcanSphere) keeps the original CC0 1.0 licence. Each entry carries its own credit line with the source link.
+- 1 prompt adapted from Zenodo (Ricardo Oliveros-Ramos) keeps the original CC BY 4.0 licence. Each entry carries its own credit line with the source link.
+- 1 prompt adapted from Internet Archive (Thomas B. Sweet (Saguna Anthroness) / Anthro Entertainment LLC) keeps the original CC BY 4.0 licence. Each entry carries its own credit line with the source link.
+- 1 prompt adapted from Wikimedia Commons (Noilco) keeps the original CC0 1.0 licence. Each entry carries its own credit line with the source link.
 - Prompts whose original licence could not be confirmed were left out.
 - Thumbnails load from trypromptgenerator.com and are not part of this repository.
 

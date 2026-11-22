@@ -109,6 +109,7 @@ MODEL_NAMES = {
     "flux-2-klein": "FLUX.2 [klein] 4B",
     "flux-2-pro": "FLUX.2 [pro]",
     "flux-3-image": "FLUX.3 Image",
+    "flux-3-image-klein": "FLUX.3 Image Klein",
     "flux-3-video": "FLUX.3 Video",
     "gemini-omni-1-2-flash": "Gemini Omni 1.2 Flash",
     "gpt-image-1-mini": "GPT Image 1 Mini",
@@ -131,12 +132,20 @@ MODEL_NAMES = {
     "seedream-5-lite": "Seedream 5.0 Lite",
     "seedream-5-pro": "Seedream 5.0 Pro",
     "veo-3-1": "Veo 3.1",
+    "veo-3-1-fast": "Veo 3.1 Fast",
+    "wan-2-6": "Wan 2.6",
     "wan-2-7": "Wan 2.7",
     "wan-3": "Wan 3.0",
     "z-image-turbo": "Z-Image Turbo",
 }
 
-LICENSE_NAMES = {"MIT": "MIT", "Apache-2.0": "Apache 2.0", "CC0-1.0": "CC0 1.0", "CC-BY-4.0": "CC BY 4.0"}
+LICENSE_NAMES = {
+    "MIT": "MIT",
+    "Apache-2.0": "Apache 2.0",
+    "CC0-1.0": "CC0 1.0",
+    "CC-BY-4.0": "CC BY 4.0",
+    "CDLA-Permissive-2.0": "CDLA Permissive 2.0",
+}
 
 BANNED = (chr(0x2014), "no" + "-fluff")
 

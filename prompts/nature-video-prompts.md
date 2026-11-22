@@ -1,8 +1,8 @@
 # Nature video prompts
 
-12 prompts with the result each one produced. Landscapes, weather and wildlife for b-roll. Copy a prompt with the button on its code block, then open its page on Prompt Generator for the full-size result, a breakdown of the prompt and variations.
+30 prompts with the result each one produced. Landscapes, weather and wildlife for b-roll. Copy a prompt with the button on its code block, then open its page on Prompt Generator for the full-size result, a breakdown of the prompt and variations.
 
-Models used here: Seedance 2.0 (8), Veo 3.1 (4).
+Models used here: Veo 3.1 (15), Seedance 2.0 (12), Veo 3.1 Fast (2), Wan 2.6 (1).
 
 [Back to all categories](../README.md) | [This category on Prompt Generator](https://trypromptgenerator.com/video-prompts/nature)
 
@@ -15,11 +15,29 @@ Models used here: Seedance 2.0 (8), Veo 3.1 (4).
 - [Sea turtle over a coral reef, underwater glide](#sea-turtle-over-a-coral-reef-underwater-glide)
 - [Sunbeams through a misty pine forest, vertical](#sunbeams-through-a-misty-pine-forest-vertical)
 - [Bald eagle gliding over snowy mountain peaks](#bald-eagle-gliding-over-snowy-mountain-peaks)
+- [Climber in a red down jacket on a windswept snowy ridge](#climber-in-a-red-down-jacket-on-a-windswept-snowy-ridge)
 - [Dolphin leaping out of the sea at sunset](#dolphin-leaping-out-of-the-sea-at-sunset)
+- [Drone flying low through a lush rainforest](#drone-flying-low-through-a-lush-rainforest)
+- [Elephant walking through golden savanna dust](#elephant-walking-through-golden-savanna-dust)
+- [Farmers planting rice on water-filled terraces at sunrise](#farmers-planting-rice-on-water-filled-terraces-at-sunrise)
+- [Fishermen casting a net on a misty lake at sunrise](#fishermen-casting-a-net-on-a-misty-lake-at-sunrise)
+- [Four-panel split screen of lightning, waves, forest and clouds](#four-panel-split-screen-of-lightning-waves-forest-and-clouds)
+- [Frog croaking with an inflated vocal sac at a sunset pond](#frog-croaking-with-an-inflated-vocal-sac-at-a-sunset-pond)
+- [Grey wolf walking through a misty forest in morning sunbeams](#grey-wolf-walking-through-a-misty-forest-in-morning-sunbeams)
 - [Hot air balloons rising over a rock valley at sunrise](#hot-air-balloons-rising-over-a-rock-valley-at-sunrise)
 - [Humpback whale breaching at sunset with dolphins](#humpback-whale-breaching-at-sunset-with-dolphins)
 - [Misty mountain lake at sunrise with geese flying over](#misty-mountain-lake-at-sunrise-with-geese-flying-over)
+- [Orange-banded snake slithering through dry forest leaves](#orange-banded-snake-slithering-through-dry-forest-leaves)
+- [Paraglider taking off from a mountain peak at sunrise](#paraglider-taking-off-from-a-mountain-peak-at-sunrise)
+- [Penguins waddling and belly-sliding on an icy shore](#penguins-waddling-and-belly-sliding-on-an-icy-shore)
+- [People strolling along a beach at sunset as waves roll in](#people-strolling-along-a-beach-at-sunset-as-waves-roll-in)
+- [Red squirrel eating a nut on a mossy branch](#red-squirrel-eating-a-nut-on-a-mossy-branch)
+- [Siamese cat kneading a cable-knit blanket while being petted](#siamese-cat-kneading-a-cable-knit-blanket-while-being-petted)
+- [Volcano erupting at night with lightning in the ash cloud](#volcano-erupting-at-night-with-lightning-in-the-ash-cloud)
+- [Wet golden retriever shaking off water in a bathtub](#wet-golden-retriever-shaking-off-water-in-a-bathtub)
+- [Whale surfacing beside a boat with a misty blow](#whale-surfacing-beside-a-boat-with-a-misty-blow)
 - [Windmills along a misty canal, sunrise push-in](#windmills-along-a-misty-canal-sunrise-push-in)
+- [Wolf pack howling on a snowy ridge at blue hour](#wolf-pack-howling-on-a-snowy-ridge-at-blue-hour)
 
 ## Forest waterfall, drone pull back
 
@@ -148,6 +166,20 @@ Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/Rapid
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/bald-eagle-glide-over-snowy-peaks)
 
+## Climber in a red down jacket on a windswept snowy ridge
+
+<a href="https://trypromptgenerator.com/p/climber-red-down-jacket-snowy-mountain-ridge"><img src="https://trypromptgenerator.com/library/video/climber-red-down-jacket-snowy-mountain-ridge.webp" width="220" alt="Climber in a red down jacket on a windswept snowy ridge: poster frame on Seedance 2.0"></a>
+
+**Model:** Seedance 2.0 | **Aspect ratio:** 16:9 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
+
+```text
+A cinematic mountaineering video in three shots. First, a shaky handheld close-up of a climber in a bright red down jacket, black beanie and backpack hauling himself up snow-covered rocks in driving wind. Then a medium shot as he reaches the top of the ridge and looks out, breathing hard, snow streaming past his face. Finally a wide shot of the tiny red figure walking along a knife-edge ridge, a vast range of white peaks fading into low cloud behind. Overcast, cold blue-grey light, muted colours with the jacket as the only strong colour. Sound: howling wind and crunching snow.
+```
+
+Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/skylenage/FilmBench) by FilmBench authors (Shengyi Wang et al.; HF user skylenage), Apache 2.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/climber-red-down-jacket-snowy-mountain-ridge)
+
 ## Dolphin leaping out of the sea at sunset
 
 <a href="https://trypromptgenerator.com/p/dolphin-leap-sunset-sea"><img src="https://trypromptgenerator.com/library/video/dolphin-leap-sunset-sea.webp" width="220" alt="Dolphin leaping out of the sea at sunset: poster frame on Veo 3.1"></a>
@@ -165,6 +197,124 @@ Duration: 6 seconds.
 Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/Rapidata/text-2-video-human-preferences-veo3.1) by Rapidata, Apache 2.0 licence.
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/dolphin-leap-sunset-sea)
+
+## Drone flying low through a lush rainforest
+
+<a href="https://trypromptgenerator.com/p/drone-flying-through-rainforest-canopy"><img src="https://trypromptgenerator.com/library/video/drone-flying-through-rainforest-canopy.webp" width="220" alt="Drone flying low through a lush rainforest: poster frame on Veo 3.1"></a>
+
+**Model:** Veo 3.1 | **Aspect ratio:** 16:9 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
+
+```text
+A small black quadcopter drone with glowing blue lights flies low through a dense tropical rainforest.
+Shot: the camera follows the drone from behind as it weaves between giant ferns and mossy trunks over a small stream; a butterfly flutters past.
+Setting and light: soft misty daylight under the canopy, bright green leaves, a few orange flowers.
+Style: realistic, clean tech-meets-nature look, rich greens with blue accents.
+Duration: 6 seconds.
+```
+
+Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/Rapidata/text-2-video-human-preferences-veo3.1) by Rapidata, Apache 2.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/drone-flying-through-rainforest-canopy)
+
+## Elephant walking through golden savanna dust
+
+<a href="https://trypromptgenerator.com/p/elephant-walking-through-golden-savanna-dust"><img src="https://trypromptgenerator.com/library/video/elephant-walking-through-golden-savanna-dust.webp" width="220" alt="Elephant walking through golden savanna dust: poster frame on Veo 3.1 Fast"></a>
+
+**Model:** Veo 3.1 Fast | **Aspect ratio:** 16:9 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
+
+```text
+A wildlife documentary video of a large African elephant on a dry savanna of red earth and pale grass, flat-topped acacia trees behind. It swings its trunk and throws dust over its back, sending a warm orange cloud drifting around its body, then strides slowly across the frame with its ears flapping and tusks catching the light. Late-afternoon sun, hazy golden air, low telephoto camera that tracks the walk. Sound: a dry rush of falling dust, a deep trunk exhale, heavy footfalls thudding into the ground and a low rumble.
+```
+
+Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/microsoft/AVGen-Bench) by Microsoft Research (AVGen-Bench: Ziwei Zhou, Zeyuan Lai, Rui Wang, et al.), MIT licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/elephant-walking-through-golden-savanna-dust)
+
+## Farmers planting rice on water-filled terraces at sunrise
+
+<a href="https://trypromptgenerator.com/p/rice-terraces-sunrise-farmers-planting"><img src="https://trypromptgenerator.com/library/video/rice-terraces-sunrise-farmers-planting.webp" width="220" alt="Farmers planting rice on water-filled terraces at sunrise: poster frame on Veo 3.1"></a>
+
+**Model:** Veo 3.1 | **Aspect ratio:** 16:9 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
+
+```text
+Farmers bend to plant rice seedlings in curving water-filled terraces on a hillside.
+Shot: a slow push along the terraces, two or three farmers in the middle distance working row by row.
+Setting and light: the sun just above the trees, golden light glinting on the water between the rows of young green shoots, mist rising from the paddies, palm trees on the ridge.
+Style: cinematic travel documentary, warm gold and fresh green.
+Duration: 6 seconds.
+```
+
+Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/Rapidata/text-2-video-human-preferences-veo3.1) by Rapidata, Apache 2.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/rice-terraces-sunrise-farmers-planting)
+
+## Fishermen casting a net on a misty lake at sunrise
+
+<a href="https://trypromptgenerator.com/p/fishermen-casting-net-misty-lake-sunrise"><img src="https://trypromptgenerator.com/library/video/fishermen-casting-net-misty-lake-sunrise.webp" width="220" alt="Fishermen casting a net on a misty lake at sunrise: poster frame on Veo 3.1"></a>
+
+**Model:** Veo 3.1 | **Aspect ratio:** 16:9 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
+
+```text
+Two fishermen stand in a small wooden boat on a calm lake; one throws a round net that opens in the air and lands on the water.
+Shot: a static wide shot, the boat and men in silhouette, ripples spreading out where the net lands.
+Setting and light: sunrise right behind them, golden light on the water, low mist rolling over the lake, wooded hills on the far shore.
+Style: cinematic, peaceful, warm gold tones, mirror-like reflections.
+Duration: 6 seconds.
+```
+
+Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/Rapidata/text-2-video-human-preferences-veo3.1) by Rapidata, Apache 2.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/fishermen-casting-net-misty-lake-sunrise)
+
+## Four-panel split screen of lightning, waves, forest and clouds
+
+<a href="https://trypromptgenerator.com/p/split-screen-forces-of-nature"><img src="https://trypromptgenerator.com/library/video/split-screen-forces-of-nature.webp" width="220" alt="Four-panel split screen of lightning, waves, forest and clouds: poster frame on Veo 3.1"></a>
+
+**Model:** Veo 3.1 | **Aspect ratio:** 16:9 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
+
+```text
+A four-panel split screen showing forces of nature at the same time.
+Shot: four equal panels, all static: top left, lightning strikes over dark mountains; top right, big waves crash against sea cliffs; bottom left, a pine forest sways in strong wind with leaves flying; bottom right, white clouds race across a blue sky.
+Setting and light: each panel with its own natural light: stormy grey, sea spray, bright daylight.
+Style: realistic nature documentary, crisp and dramatic, thin dark lines between the panels.
+Duration: 6 seconds.
+```
+
+Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/Rapidata/text-2-video-human-preferences-veo3.1) by Rapidata, Apache 2.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/split-screen-forces-of-nature)
+
+## Frog croaking with an inflated vocal sac at a sunset pond
+
+<a href="https://trypromptgenerator.com/p/frog-croaking-inflated-vocal-sac-pond-sunset"><img src="https://trypromptgenerator.com/library/video/frog-croaking-inflated-vocal-sac-pond-sunset.webp" width="220" alt="Frog croaking with an inflated vocal sac at a sunset pond: poster frame on Veo 3.1"></a>
+
+**Model:** Veo 3.1 | **Aspect ratio:** 16:9 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
+
+```text
+Opens on a wide view of a calm wetland pond at sunset, tall reeds silhouetted on the left and an orange-to-violet sky mirrored in the still water while small ripples spread across the surface. Cut to a low close-up at water level: a brown speckled frog sits on a wet green lily leaf among bright green and orange reed stems, its pale vocal sac swelling into a round bubble and shrinking with each call. Shallow depth of field, warm golden light. Sound: a chorus of frogs rising and falling in waves, the nearest croak landing exactly as the throat inflates.
+```
+
+Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/microsoft/AVGen-Bench) by Microsoft Research (AVGen-Bench: Ziwei Zhou, Zeyuan Lai, Rui Wang, et al.), MIT licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/frog-croaking-inflated-vocal-sac-pond-sunset)
+
+## Grey wolf walking through a misty forest in morning sunbeams
+
+<a href="https://trypromptgenerator.com/p/grey-wolf-misty-forest-sunbeams"><img src="https://trypromptgenerator.com/library/video/grey-wolf-misty-forest-sunbeams.webp" width="220" alt="Grey wolf walking through a misty forest in morning sunbeams: poster frame on Veo 3.1"></a>
+
+**Model:** Veo 3.1 | **Aspect ratio:** 16:9 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
+
+```text
+A lone grey wolf walks slowly through a misty pine forest at dawn.
+Shot: a low side-on tracking shot at the wolf's height, following it from left to right between tall dark trunks.
+Setting and light: thick morning mist, sunbeams breaking through the trees, soft light on the wolf's fur, mossy ground and fallen logs.
+Style: realistic wildlife documentary, calm and moody, soft greens and golden light.
+Duration: 6 seconds.
+```
+
+Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/Rapidata/text-2-video-human-preferences-veo3.1) by Rapidata, Apache 2.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/grey-wolf-misty-forest-sunbeams)
 
 ## Hot air balloons rising over a rock valley at sunrise
 
@@ -222,6 +372,140 @@ Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/Rapid
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/misty-mountain-lake-sunrise-geese)
 
+## Orange-banded snake slithering through dry forest leaves
+
+<a href="https://trypromptgenerator.com/p/orange-banded-snake-slithering-dry-forest-leaves"><img src="https://trypromptgenerator.com/library/video/orange-banded-snake-slithering-dry-forest-leaves.webp" width="220" alt="Orange-banded snake slithering through dry forest leaves: poster frame on Seedance 2.0"></a>
+
+**Model:** Seedance 2.0 | **Aspect ratio:** 16:9 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
+
+```text
+A ground-level nature shot on a forest floor covered in brown oak leaves and fallen twigs, tall tree trunks softly blurred in the background under even daylight. A slim snake with glossy orange scales and black-edged red bands glides from left to right through the leaf litter, its body curving in smooth S-shapes as it threads over a branch. The camera stays low and almost still, tracking slightly to keep the head in frame. Sound: a continuous dry rustle and crackle of leaves exactly where the body passes, a faint twig snap, quiet forest birds far away.
+```
+
+Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/microsoft/AVGen-Bench) by Microsoft Research (AVGen-Bench: Ziwei Zhou, Zeyuan Lai, Rui Wang, et al.), MIT licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/orange-banded-snake-slithering-dry-forest-leaves)
+
+## Paraglider taking off from a mountain peak at sunrise
+
+<a href="https://trypromptgenerator.com/p/paraglider-takeoff-mountain-peak-sunrise"><img src="https://trypromptgenerator.com/library/video/paraglider-takeoff-mountain-peak-sunrise.webp" width="220" alt="Paraglider taking off from a mountain peak at sunrise: poster frame on Veo 3.1"></a>
+
+**Model:** Veo 3.1 | **Aspect ratio:** 16:9 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
+
+```text
+A paraglider with a red wing runs and takes off from the rocky top of a mountain, then glides out over a vast valley of misty peaks and clouds at sunrise. The camera stays behind and slightly above, watching the pilot shrink into the sky as golden light breaks over the ridges. Wide aerial shot, calm and epic.
+```
+
+Credit: prompt adapted from [Google Gemini API docs](https://ai.google.dev/gemini-api/docs/video) by Google (Gemini API docs team), CC BY 4.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/paraglider-takeoff-mountain-peak-sunrise)
+
+## Penguins waddling and belly-sliding on an icy shore
+
+<a href="https://trypromptgenerator.com/p/adelie-penguins-belly-sliding-icy-shore"><img src="https://trypromptgenerator.com/library/video/adelie-penguins-belly-sliding-icy-shore.webp" width="220" alt="Penguins waddling and belly-sliding on an icy shore: poster frame on Wan 2.6"></a>
+
+**Model:** Wan 2.6 | **Aspect ratio:** 16:9 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
+
+```text
+A wildlife documentary video of a colony of black and white Adelie penguins on a snowy, icy shoreline under an overcast sky, small icebergs floating in the grey sea behind them. Penguins waddle toward the camera with flippers held out, one drops onto its belly and slides across the packed snow, pushing with its feet, then the camera moves in low until a single penguin's head fills the frame. Natural cold daylight, eye-level camera. Sound: steady wind, a chorus of squawking calls and the soft scrape of a belly on snow.
+```
+
+Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/microsoft/AVGen-Bench) by Microsoft Research (AVGen-Bench: Ziwei Zhou, Zeyuan Lai, Rui Wang, et al.), MIT licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/adelie-penguins-belly-sliding-icy-shore)
+
+## People strolling along a beach at sunset as waves roll in
+
+<a href="https://trypromptgenerator.com/p/beach-sunset-couples-strolling-waves"><img src="https://trypromptgenerator.com/library/video/beach-sunset-couples-strolling-waves.webp" width="220" alt="People strolling along a beach at sunset as waves roll in: poster frame on Veo 3.1"></a>
+
+**Model:** Veo 3.1 | **Aspect ratio:** 16:9 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
+
+```text
+A calm beach at sunset; small groups of people walk slowly along the wet sand at the water's edge.
+Shot: a static wide shot, gentle waves sliding in and out across the frame, the walkers in silhouette.
+Setting and light: the sun sitting on the horizon, a glowing orange and pink sky, a golden path of light across the sea, the wet sand reflecting the sky.
+Style: cinematic, peaceful and warm, soft focus on the distance.
+Duration: 6 seconds.
+```
+
+Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/Rapidata/text-2-video-human-preferences-veo3.1) by Rapidata, Apache 2.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/beach-sunset-couples-strolling-waves)
+
+## Red squirrel eating a nut on a mossy branch
+
+<a href="https://trypromptgenerator.com/p/red-squirrel-eating-nut-mossy-branch-bokeh"><img src="https://trypromptgenerator.com/library/video/red-squirrel-eating-nut-mossy-branch-bokeh.webp" width="220" alt="Red squirrel eating a nut on a mossy branch: poster frame on Veo 3.1"></a>
+
+**Model:** Veo 3.1 | **Aspect ratio:** 16:9 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
+
+```text
+A close wildlife video of a red squirrel with ear tufts and a bushy tail sitting upright on a moss-covered branch, a few green oak leaves beside it. It holds a nut in both front paws and nibbles quickly, pauses to glance around with its tail flicking, then goes back to eating. Soft forest light with glowing green and gold bokeh behind, shallow depth of field, steady telephoto camera at branch height. Sound: tiny sharp cracks of the shell, flakes pattering onto leaves, a light breeze and distant birdsong.
+```
+
+Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/microsoft/AVGen-Bench) by Microsoft Research (AVGen-Bench: Ziwei Zhou, Zeyuan Lai, Rui Wang, et al.), MIT licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/red-squirrel-eating-nut-mossy-branch-bokeh)
+
+## Siamese cat kneading a cable-knit blanket while being petted
+
+<a href="https://trypromptgenerator.com/p/siamese-cat-kneading-cable-knit-blanket-petted"><img src="https://trypromptgenerator.com/library/video/siamese-cat-kneading-cable-knit-blanket-petted.webp" width="220" alt="Siamese cat kneading a cable-knit blanket while being petted: poster frame on Veo 3.1"></a>
+
+**Model:** Veo 3.1 | **Aspect ratio:** 16:9 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
+
+```text
+A cosy close-up video of a Siamese cat with cream fur, dark brown points and blue eyes settling onto a thick cream cable-knit blanket on a sofa. It stretches its front paws forward and kneads the wool slowly, then lies with its paws tucked as a hand reaches in from the right and gently strokes its head; the cat half-closes its eyes, content. Warm living-room evening light, soft golden fairy-light bokeh behind, static camera at blanket level. Sound: a steady low purr, soft paw pats on the wool and the quiet brush of fingers on fur.
+```
+
+Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/microsoft/AVGen-Bench) by Microsoft Research (AVGen-Bench: Ziwei Zhou, Zeyuan Lai, Rui Wang, et al.), MIT licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/siamese-cat-kneading-cable-knit-blanket-petted)
+
+## Volcano erupting at night with lightning in the ash cloud
+
+<a href="https://trypromptgenerator.com/p/volcano-eruption-lightning-night"><img src="https://trypromptgenerator.com/library/video/volcano-eruption-lightning-night.webp" width="220" alt="Volcano erupting at night with lightning in the ash cloud: poster frame on Veo 3.1"></a>
+
+**Model:** Veo 3.1 | **Aspect ratio:** 16:9 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
+
+```text
+A volcano erupts at night, rivers of glowing lava running down its slopes while a thick ash cloud builds above the crater.
+Shot: a static wide shot; lava bursts from the summit and flows, and bolts of lightning crack through the dark ash cloud.
+Setting and light: a starry black sky, the red-orange glow of lava lighting the underside of the smoke, dark ground around the mountain.
+Style: realistic and dramatic, intense reds and oranges against deep black.
+Duration: 6 seconds.
+```
+
+Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/Rapidata/text-2-video-human-preferences-veo3.1) by Rapidata, Apache 2.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/volcano-eruption-lightning-night)
+
+## Wet golden retriever shaking off water in a bathtub
+
+<a href="https://trypromptgenerator.com/p/wet-golden-retriever-shaking-off-water-in-bathtub"><img src="https://trypromptgenerator.com/library/video/wet-golden-retriever-shaking-off-water-in-bathtub.webp" width="220" alt="Wet golden retriever shaking off water in a bathtub: poster frame on Seedance 2.0"></a>
+
+**Model:** Seedance 2.0 | **Aspect ratio:** 16:9 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
+
+```text
+A bright, natural video in a white-tiled bathroom. A wet golden retriever with a dark collar stands in a white bathtub while a person, seen only from the shoulder down, turns off the chrome tap and steps back. The dog pauses, then shakes hard from head to tail, ears flapping and droplets flying across the tub and tiles, and finishes looking up with a happy, open-mouthed face. Daylight from the side, eye-level static camera at the end of the tub. Sound: water dripping, a burst of spraying droplets, a jingling collar tag and a short laugh from the owner.
+```
+
+Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/microsoft/AVGen-Bench) by Microsoft Research (AVGen-Bench: Ziwei Zhou, Zeyuan Lai, Rui Wang, et al.), MIT licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/wet-golden-retriever-shaking-off-water-in-bathtub)
+
+## Whale surfacing beside a boat with a misty blow
+
+<a href="https://trypromptgenerator.com/p/whale-surfaces-beside-boat-misty-blow-teal-sea"><img src="https://trypromptgenerator.com/library/video/whale-surfaces-beside-boat-misty-blow-teal-sea.webp" width="220" alt="Whale surfacing beside a boat with a misty blow: poster frame on Seedance 2.0"></a>
+
+**Model:** Seedance 2.0 | **Aspect ratio:** 16:9 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
+
+```text
+A low, boat-level shot over a calm teal sea on a bright, hazy day. A dark shape rises from the water right in front of the camera, and a large whale breaks the surface head-first, its blowhole releasing a sudden misty spray with a deep, wet exhale. Its long grey back rolls slowly away from the camera with water sheeting off its skin, then it dives and a flipper slaps the surface in a splash of white foam. The sea settles back to gentle swells. Handheld camera, natural daylight, realistic wildlife footage, sounds of the blow, rushing water and soft waves.
+```
+
+Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/microsoft/AVGen-Bench) by Microsoft Research (AVGen-Bench: Ziwei Zhou, Zeyuan Lai, Rui Wang, et al.), MIT licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/whale-surfaces-beside-boat-misty-blow-teal-sea)
+
 ## Windmills along a misty canal, sunrise push-in
 
 <a href="https://trypromptgenerator.com/p/windmills-canal-sunrise-push-in"><img src="https://trypromptgenerator.com/library/video/windmills-canal-sunrise-push-in.webp" width="220" alt="Windmills along a misty canal, sunrise push-in: poster frame on Seedance 2.0"></a>
@@ -241,3 +525,17 @@ Duration: 5 seconds.
 Credit: prompt adapted from [prompts.chat](https://prompts.chat/prompts/cmvrs7pdv000zjt072vfungbm_dutch-windmill-canal-at-sunrise-image-to-video-animation) by f, CC0 1.0 licence.
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/windmills-canal-sunrise-push-in)
+
+## Wolf pack howling on a snowy ridge at blue hour
+
+<a href="https://trypromptgenerator.com/p/wolf-pack-howling-snowy-ridge-blue-hour"><img src="https://trypromptgenerator.com/library/video/wolf-pack-howling-snowy-ridge-blue-hour.webp" width="220" alt="Wolf pack howling on a snowy ridge at blue hour: poster frame on Veo 3.1 Fast"></a>
+
+**Model:** Veo 3.1 Fast | **Aspect ratio:** 16:9 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
+
+```text
+A cinematic wildlife video at blue hour. A wolf pack stands in black silhouette on a snowy rocky ridge against a deep blue sky with a thin orange glow on the horizon. Close on the pack, one wolf raises its muzzle and starts a long howl, then two more lift their heads and join in. The camera slowly pulls back to reveal the rest of the pack lined along the ridge above a wide frozen plain as wisps of cloud drift past. Sound: layered, overlapping howls echoing across the open landscape, then a cold, quiet wind.
+```
+
+Credit: prompt adapted from [Hugging Face](https://huggingface.co/datasets/microsoft/AVGen-Bench) by Microsoft Research (AVGen-Bench: Ziwei Zhou, Zeyuan Lai, Rui Wang, et al.), MIT licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/wolf-pack-howling-snowy-ridge-blue-hour)

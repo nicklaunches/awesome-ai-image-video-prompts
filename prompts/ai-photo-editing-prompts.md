@@ -1,8 +1,8 @@
 # AI photo editing prompts
 
-33 prompts with the result each one produced. Edits to a photo you already have: restyle, relight, restore, swap a background, change an outfit. Copy a prompt with the button on its code block, then open its page on Prompt Generator for the full-size result, a breakdown of the prompt and variations.
+46 prompts with the result each one produced. Edits to a photo you already have: restyle, relight, restore, swap a background, change an outfit. Copy a prompt with the button on its code block, then open its page on Prompt Generator for the full-size result, a breakdown of the prompt and variations.
 
-Models used here: Nano Banana Pro (13), Qwen Image 3 (8), FLUX.2 [pro] (2), GPT Image 2.5 Flare (2), Grok Imagine Image 2.0 (2), Nano Banana 2 (2), FLUX.2 [klein] 4B (1), FLUX.3 Image (1), Seedream 5.0 Lite (1), Seedream 5.0 Pro (1).
+Models used here: Nano Banana Pro (15), Qwen Image 3 (8), Nano Banana (7), FLUX.3 Image Klein (3), FLUX.2 [pro] (2), GPT Image 2.5 Flare (2), Grok Imagine Image 2.0 (2), Nano Banana 2 (2), FLUX.2 [klein] 4B (1), FLUX.3 Image (1), GPT Image 2 (1), Seedream 5.0 Lite (1), Seedream 5.0 Pro (1).
 
 [Back to all categories](../README.md) | [This category on Prompt Generator](https://trypromptgenerator.com/image-prompts/photo-editing)
 
@@ -15,11 +15,14 @@ Models used here: Nano Banana Pro (13), Qwen Image 3 (8), FLUX.2 [pro] (2), GPT 
 - [Remove people from the background](#remove-people-from-the-background)
 - [Restore an old damaged photo](#restore-an-old-damaged-photo)
 - [Swap the background for a studio backdrop](#swap-the-background-for-a-studio-backdrop)
+- [Add a croissant next to your coffee](#add-a-croissant-next-to-your-coffee)
+- [Add a knitted wizard hat to your cat](#add-a-knitted-wizard-hat-to-your-cat)
 - [Anime style transformation of a portrait](#anime-style-transformation-of-a-portrait)
 - [Apply artistic style from reference image to original photo](#apply-artistic-style-from-reference-image-to-original-photo)
 - [Apply textures and elements to a 3d logo composition](#apply-textures-and-elements-to-a-3d-logo-composition)
 - [Beach makeover for man and dog with linen outfits and accessories](#beach-makeover-for-man-and-dog-with-linen-outfits-and-accessories)
 - [Change outfit and hairstyle in existing photo](#change-outfit-and-hairstyle-in-existing-photo)
+- [Character jump animation sprite sheet](#character-jump-animation-sprite-sheet)
 - [Character portrait relighting with dramatic overhead lighting](#character-portrait-relighting-with-dramatic-overhead-lighting)
 - [Cozy living room interior design from collage sketch](#cozy-living-room-interior-design-from-collage-sketch)
 - [Cyberpunk neon transformation of a robot](#cyberpunk-neon-transformation-of-a-robot)
@@ -28,7 +31,11 @@ Models used here: Nano Banana Pro (13), Qwen Image 3 (8), FLUX.2 [pro] (2), GPT 
 - [High resolution upscale for detailed textures and sharp text](#high-resolution-upscale-for-detailed-textures-and-sharp-text)
 - [Man wearing new outfit and accessories in African savannah](#man-wearing-new-outfit-and-accessories-in-african-savannah)
 - [Moonlight relighting of a dancer in a circular stone room](#moonlight-relighting-of-a-dancer-in-a-circular-stone-room)
+- [Move your figurine to a sandy beach](#move-your-figurine-to-a-sandy-beach)
 - [Pop art poster transformation of the uploaded image](#pop-art-poster-transformation-of-the-uploaded-image)
+- [Put a dress on a model for an e-commerce photo](#put-a-dress-on-a-model-for-an-e-commerce-photo)
+- [Put your dog on a beach](#put-your-dog-on-a-beach)
+- [Put your dog's photo on a coffee mug](#put-your-dogs-photo-on-a-coffee-mug)
 - [Relight a photo with soft twilight illumination](#relight-a-photo-with-soft-twilight-illumination)
 - [Relighting a character portrait with glass orb lighting](#relighting-a-character-portrait-with-glass-orb-lighting)
 - [Remove background from an image](#remove-background-from-an-image)
@@ -39,8 +46,14 @@ Models used here: Nano Banana Pro (13), Qwen Image 3 (8), FLUX.2 [pro] (2), GPT 
 - [Rotate character view 45 degrees to the right](#rotate-character-view-45-degrees-to-the-right)
 - [Swap furniture and place character in existing scene](#swap-furniture-and-place-character-in-existing-scene)
 - [Swap product held by subject in two reference images](#swap-product-held-by-subject-in-two-reference-images)
+- [Swap the sofa in a room photo](#swap-the-sofa-in-a-room-photo)
 - [Transform an uploaded image into a textured oil painting](#transform-an-uploaded-image-into-a-textured-oil-painting)
+- [Turn a car sketch into a showroom photo](#turn-a-car-sketch-into-a-showroom-photo)
+- [Turn a landmark photo into an isometric model](#turn-a-landmark-photo-into-an-isometric-model)
+- [Turn a landscape sketch into a photo: valley stream at sunrise](#turn-a-landscape-sketch-into-a-photo-valley-stream-at-sunrise)
 - [Virtual try on of a reference garment on a person](#virtual-try-on-of-a-reference-garment-on-a-person)
+- [Your figurine relaxing in a spa](#your-figurine-relaxing-in-a-spa)
+- [Your figurine wingsuit-jumping from a spaceship](#your-figurine-wingsuit-jumping-from-a-spaceship)
 
 ## Change your outfit to a suit
 
@@ -126,6 +139,34 @@ Change only the background of my uploaded photo. Replace it with a smooth, evenl
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/studio-background-swap)
 
+## Add a croissant next to your coffee
+
+<a href="https://trypromptgenerator.com/p/add-croissant-next-to-coffee-mug-photo"><img src="https://trypromptgenerator.com/library/add-croissant-next-to-coffee-mug-photo.webp" width="220" alt="Add a croissant next to your coffee: result on FLUX.3 Image Klein"></a>
+
+**Model:** FLUX.3 Image Klein | **Aspect ratio:** 1:1
+
+```text
+Using my uploaded photo, add a golden flaky butter croissant on the wooden table to the right of the coffee mug, with a few crumbs around it. Keep the mug, the window, the light and the shadows exactly as in the photo, and match the new croissant to the same warm side light.
+```
+
+Credit: prompt adapted from [GitHub](https://github.com/black-forest-labs/flux-3-image-klein/tree/main/examples/distilled) by Black Forest Labs, Apache 2.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/add-croissant-next-to-coffee-mug-photo)
+
+## Add a knitted wizard hat to your cat
+
+<a href="https://trypromptgenerator.com/p/add-knitted-wizard-hat-to-cat-photo"><img src="https://trypromptgenerator.com/library/add-knitted-wizard-hat-to-cat-photo.webp" width="220" alt="Add a knitted wizard hat to your cat: result on Nano Banana"></a>
+
+**Model:** Nano Banana | **Aspect ratio:** 1:1
+
+```text
+Using my uploaded photo of my cat, add a small hand-knitted wizard hat on its head in deep blue wool with little white stars and a pom-pom on the tip. Make it look like it is really sitting on the cat's head, matching the lighting and shadows of the photo. Keep the cat, its pose and the room exactly the same.
+```
+
+Credit: prompt adapted from [Google Gemini API docs](https://ai.google.dev/gemini-api/docs/image-generation (still shown at https://aistudio.google.com/docs/image-generation)) by Google (Gemini API docs team), CC BY 4.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/add-knitted-wizard-hat-to-cat-photo)
+
 ## Anime style transformation of a portrait
 
 <a href="https://trypromptgenerator.com/p/anime-style-transformation-of-a-portrait"><img src="https://trypromptgenerator.com/library/anime-style-transformation-of-a-portrait.webp" width="220" alt="Anime style transformation of a portrait: result on Nano Banana Pro"></a>
@@ -195,6 +236,20 @@ Keep the background environment, concrete walls, blue sky, sunlight, shadows, ca
 Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_openai_gpt_image_25_flare_image_edit.json) by Comfy Org, MIT licence.
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/change-outfit-and-hairstyle-in-existing-photo)
+
+## Character jump animation sprite sheet
+
+<a href="https://trypromptgenerator.com/p/character-jump-sprite-sheet-3x3"><img src="https://trypromptgenerator.com/library/character-jump-sprite-sheet-3x3.webp" width="220" alt="Character jump animation sprite sheet: result on Nano Banana Pro"></a>
+
+**Model:** Nano Banana Pro | **Aspect ratio:** 1:1
+
+```text
+Using my uploaded character drawing, create a sprite sheet of the character jumping: a 3x3 grid on a white background showing the sequence frame by frame, from crouch to take-off, mid-air with arms up, to landing. Keep the same character design, colours and size in every frame. Clean cartoon style, square.
+```
+
+Credit: prompt adapted from [GitHub](https://github.com/google-gemini/cookbook/blob/89fe4a0f98/quickstarts/Get_Started_Nano_Banana.ipynb) by Google Gemini cookbook team, Apache 2.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/character-jump-sprite-sheet-3x3)
 
 ## Character portrait relighting with dramatic overhead lighting
 
@@ -333,6 +388,20 @@ Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/wor
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/moonlight-relighting-of-a-dancer-in-a-circular-stone-room)
 
+## Move your figurine to a sandy beach
+
+<a href="https://trypromptgenerator.com/p/fox-figurine-on-sandy-beach-edit"><img src="https://trypromptgenerator.com/library/fox-figurine-on-sandy-beach-edit.webp" width="220" alt="Move your figurine to a sandy beach: result on Nano Banana"></a>
+
+**Model:** Nano Banana | **Aspect ratio:** 1:1
+
+```text
+Using my uploaded photo of a toy figurine, move the same figurine onto a sandy beach. Keep the character, its outfit, accessories and pose exactly the same. Turquoise sea and gentle waves behind, a few shells and a piece of driftwood in the sand, bright midday sun, macro toy photography.
+```
+
+Credit: prompt adapted from [GitHub](https://github.com/google-gemini/cookbook/blob/89fe4a0f98/quickstarts/Get_Started_Nano_Banana.ipynb) by Google Gemini cookbook team, Apache 2.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/fox-figurine-on-sandy-beach-edit)
+
 ## Pop art poster transformation of the uploaded image
 
 <a href="https://trypromptgenerator.com/p/pop-art-poster-transformation-of-the-uploaded-image"><img src="https://trypromptgenerator.com/library/pop-art-poster-transformation-of-the-uploaded-image.webp" width="220" alt="Pop art poster transformation of the uploaded image: result on Qwen Image 3"></a>
@@ -346,6 +415,48 @@ Convert this image to pop art poster style
 Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/image_qwen_image_edit_2511_int8.json) by Comfy Org, MIT licence.
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/pop-art-poster-transformation-of-the-uploaded-image)
+
+## Put a dress on a model for an e-commerce photo
+
+<a href="https://trypromptgenerator.com/p/dress-on-model-ecommerce-street-photo"><img src="https://trypromptgenerator.com/library/dress-on-model-ecommerce-street-photo.webp" width="220" alt="Put a dress on a model for an e-commerce photo: result on Nano Banana"></a>
+
+**Model:** Nano Banana | **Aspect ratio:** 1:1
+
+```text
+Create a professional e-commerce fashion photo. Take the blue floral dress from my first uploaded image and put it on the woman from my second image. She walks toward the camera on a sunny cobbled old-town street, smiling naturally. Keep the dress pattern, cut and length exactly as in the product photo. Full-length shot, soft daylight, realistic fabric movement.
+```
+
+Credit: prompt adapted from [Google Gemini API docs](https://ai.google.dev/gemini-api/docs/image-generation (still shown at https://aistudio.google.com/docs/image-generation)) by Google (Gemini API docs team), CC BY 4.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/dress-on-model-ecommerce-street-photo)
+
+## Put your dog on a beach
+
+<a href="https://trypromptgenerator.com/p/put-your-dog-on-a-beach-photo-edit"><img src="https://trypromptgenerator.com/library/put-your-dog-on-a-beach-photo-edit.webp" width="220" alt="Put your dog on a beach: result on FLUX.3 Image Klein"></a>
+
+**Model:** FLUX.3 Image Klein | **Aspect ratio:** 1:1
+
+```text
+Using my uploaded photo of my golden retriever, place the same dog sitting on a wide sandy beach with soft waves and an overcast sky behind. Add a red bandana around its neck. Keep the dog's face, fur colour, pose and size exactly the same, with natural pawprints in the sand.
+```
+
+Credit: prompt adapted from [GitHub](https://github.com/black-forest-labs/flux-3-image-klein/tree/main/examples/distilled) by Black Forest Labs, Apache 2.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/put-your-dog-on-a-beach-photo-edit)
+
+## Put your dog's photo on a coffee mug
+
+<a href="https://trypromptgenerator.com/p/put-your-dog-photo-on-coffee-mug"><img src="https://trypromptgenerator.com/library/put-your-dog-photo-on-coffee-mug.webp" width="220" alt="Put your dog&#x27;s photo on a coffee mug: result on FLUX.3 Image Klein"></a>
+
+**Model:** FLUX.3 Image Klein | **Aspect ratio:** 1:1
+
+```text
+Using my uploaded photos, print the dog from my second image onto the side of the white ceramic coffee mug from my first image as a full-colour photo print. Keep the mug, the coffee, the table, the window light and the camera angle exactly as they are. Make the print wrap naturally with the curve of the mug.
+```
+
+Credit: prompt adapted from [GitHub](https://github.com/black-forest-labs/flux-3-image-klein/tree/main/examples/distilled) by Black Forest Labs, Apache 2.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/put-your-dog-photo-on-coffee-mug)
 
 ## Relight a photo with soft twilight illumination
 
@@ -487,6 +598,20 @@ Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/wor
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/swap-product-held-by-subject-in-two-reference-images)
 
+## Swap the sofa in a room photo
+
+<a href="https://trypromptgenerator.com/p/swap-sofa-chesterfield-living-room-photo"><img src="https://trypromptgenerator.com/library/swap-sofa-chesterfield-living-room-photo.webp" width="220" alt="Swap the sofa in a room photo: result on Nano Banana"></a>
+
+**Model:** Nano Banana | **Aspect ratio:** 1:1
+
+```text
+Using my uploaded photo of a living room, change only the sofa into a vintage brown leather chesterfield sofa with deep button tufting. Keep the walls, floor, windows, rug, coffee table, decor and lighting exactly as they are, with the same camera angle.
+```
+
+Credit: prompt adapted from [Google Gemini API docs](https://ai.google.dev/gemini-api/docs/image-generation (still shown at https://aistudio.google.com/docs/image-generation)) by Google (Gemini API docs team), CC BY 4.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/swap-sofa-chesterfield-living-room-photo)
+
 ## Transform an uploaded image into a textured oil painting
 
 <a href="https://trypromptgenerator.com/p/transform-an-uploaded-image-into-a-textured-oil-painting"><img src="https://trypromptgenerator.com/library/transform-an-uploaded-image-into-a-textured-oil-painting.webp" width="220" alt="Transform an uploaded image into a textured oil painting: result on Grok Imagine Image 2.0"></a>
@@ -501,6 +626,48 @@ Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/wor
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/transform-an-uploaded-image-into-a-textured-oil-painting)
 
+## Turn a car sketch into a showroom photo
+
+<a href="https://trypromptgenerator.com/p/pencil-car-sketch-to-showroom-photo"><img src="https://trypromptgenerator.com/library/pencil-car-sketch-to-showroom-photo.webp" width="220" alt="Turn a car sketch into a showroom photo: result on Nano Banana Pro"></a>
+
+**Model:** Nano Banana Pro | **Aspect ratio:** 1:1
+
+```text
+Turn my uploaded rough pencil sketch of a futuristic sports car into a polished photo of the finished concept car in a modern showroom. Keep the exact shape and proportions of the sketch. Glossy deep blue paint, glowing blue underglow lights, polished concrete floor with reflections, large glass windows behind.
+```
+
+Credit: prompt adapted from [Google Gemini API docs](https://ai.google.dev/gemini-api/docs/image-generation (section "Bring something to life"; still shown at https://aistudio.google.com/docs/image-generation)) by Google (Gemini API docs team), CC BY 4.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/pencil-car-sketch-to-showroom-photo)
+
+## Turn a landmark photo into an isometric model
+
+<a href="https://trypromptgenerator.com/p/landmark-photo-to-isometric-theme-park-model"><img src="https://trypromptgenerator.com/library/landmark-photo-to-isometric-theme-park-model.webp" width="220" alt="Turn a landmark photo into an isometric model: result on Nano Banana"></a>
+
+**Model:** Nano Banana | **Aspect ratio:** 16:9
+
+```text
+Using my uploaded photo of a landmark, turn the building into an isometric miniature model in the style of a theme-park building game: just the building and its small island or ground, tiny trees and paths, on a plain turquoise background. Keep the shape and key features of the real building.
+```
+
+Credit: prompt adapted from [GitHub](https://github.com/google-gemini/cookbook/blob/89fe4a0f98/quickstarts/Get_Started_Nano_Banana.ipynb) by Google Gemini cookbook team, Apache 2.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/landmark-photo-to-isometric-theme-park-model)
+
+## Turn a landscape sketch into a photo: valley stream at sunrise
+
+<a href="https://trypromptgenerator.com/p/sketch-to-photo-mountain-valley-stream-sunrise"><img src="https://trypromptgenerator.com/library/sketch-to-photo-mountain-valley-stream-sunrise.webp" width="220" alt="Turn a landscape sketch into a photo: valley stream at sunrise: result on GPT Image 2"></a>
+
+**Model:** GPT Image 2 | **Aspect ratio:** 2:3
+
+```text
+Turn my drawing into a photorealistic landscape photograph. Keep the exact layout, proportions and perspective of the sketch, and do not add new objects or any text. Render it as a green mountain valley at sunrise: the sun rising in the gap between two snow-dusted peaks, a shallow stream winding from the foreground toward the mountains over smooth rounded stones, lush grassy banks with tufts of tall grass, a single leafy tree on the right bank, and a few small white clouds in a clear blue sky. Warm low backlight, glittering water, crisp detail and natural colour.
+```
+
+Credit: prompt adapted from [GitHub](https://github.com/openai/openai-cookbook/blob/2658c92cd4cd562504571b9d7491fc51524a7dc9/examples/multimodal/image-gen-models-prompting-guide.ipynb) by OpenAI (openai-cookbook, GPT Image prompting guide), MIT licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/sketch-to-photo-mountain-valley-stream-sunrise)
+
 ## Virtual try on of a reference garment on a person
 
 <a href="https://trypromptgenerator.com/p/virtual-try-on-of-a-reference-garment-on-a-person"><img src="https://trypromptgenerator.com/library/virtual-try-on-of-a-reference-garment-on-a-person.webp" width="220" alt="Virtual try on of a reference garment on a person: result on FLUX.2 [pro]"></a>
@@ -514,3 +681,31 @@ Replace the full outfit with the reference garment
 Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/api_flux_vto.json) by Comfy Org, MIT licence.
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/virtual-try-on-of-a-reference-garment-on-a-person)
+
+## Your figurine relaxing in a spa
+
+<a href="https://trypromptgenerator.com/p/figurine-relaxing-in-spa-hot-tub"><img src="https://trypromptgenerator.com/library/figurine-relaxing-in-spa-hot-tub.webp" width="220" alt="Your figurine relaxing in a spa: result on Nano Banana"></a>
+
+**Model:** Nano Banana | **Aspect ratio:** 1:1
+
+```text
+Using my uploaded photo of a toy figurine, show the same character relaxing in a wooden spa tub with a white towel wrapped on its head, cucumber slices on its eyes and a cup of tea in its paws. Steam rises, candles and bamboo in a cosy spa room behind. Soft warm light, toy photography.
+```
+
+Credit: prompt adapted from [GitHub](https://github.com/google-gemini/cookbook/blob/89fe4a0f98/quickstarts/Get_Started_Nano_Banana.ipynb) by Google Gemini cookbook team, Apache 2.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/figurine-relaxing-in-spa-hot-tub)
+
+## Your figurine wingsuit-jumping from a spaceship
+
+<a href="https://trypromptgenerator.com/p/figurine-wingsuit-jump-from-spaceship"><img src="https://trypromptgenerator.com/library/figurine-wingsuit-jump-from-spaceship.webp" width="220" alt="Your figurine wingsuit-jumping from a spaceship: result on Nano Banana"></a>
+
+**Model:** Nano Banana | **Aspect ratio:** 1:1
+
+```text
+Using my uploaded photo of a toy figurine, show the same character base-jumping from a spaceship in a blue wingsuit high above the Earth. Keep its face, hat and accessories. The white spaceship hull is above, the curved blue planet and clouds below. Dramatic, adventurous, realistic toy photography.
+```
+
+Credit: prompt adapted from [GitHub](https://github.com/google-gemini/cookbook/blob/89fe4a0f98/quickstarts/Get_Started_Nano_Banana.ipynb) by Google Gemini cookbook team, Apache 2.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/figurine-wingsuit-jump-from-spaceship)

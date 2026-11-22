@@ -1,8 +1,8 @@
 # 3D figurine prompts
 
-7 prompts with the result each one produced. Figurines, toys, collectibles and character sheets. Copy a prompt with the button on its code block, then open its page on Prompt Generator for the full-size result, a breakdown of the prompt and variations.
+11 prompts with the result each one produced. Figurines, toys, collectibles and character sheets. Copy a prompt with the button on its code block, then open its page on Prompt Generator for the full-size result, a breakdown of the prompt and variations.
 
-Models used here: Nano Banana Pro (4), FLUX.2 [pro] (2), Qwen Image 3 (1).
+Models used here: Nano Banana (4), Nano Banana Pro (4), FLUX.2 [pro] (2), Qwen Image 3 (1).
 
 [Back to all categories](../README.md) | [This category on Prompt Generator](https://trypromptgenerator.com/image-prompts/3d-figurine)
 
@@ -13,8 +13,12 @@ Models used here: Nano Banana Pro (4), FLUX.2 [pro] (2), Qwen Image 3 (1).
 - [360 degree full body character turnaround sheet](#360-degree-full-body-character-turnaround-sheet)
 - [Cute glowing ghost desktop ornament on a cozy table](#cute-glowing-ghost-desktop-ornament-on-a-cozy-table)
 - [Cute retro mini car with pastel flowers in a spring setting](#cute-retro-mini-car-with-pastel-flowers-in-a-spring-setting)
+- [Fox explorer toy figurine in a kid's bedroom](#fox-explorer-toy-figurine-in-a-kids-bedroom)
 - [Miniature architectural house model on a professional desk](#miniature-architectural-house-model-on-a-professional-desk)
+- [Move your figurine to a sandy beach](#move-your-figurine-to-a-sandy-beach)
 - [Superman gummy candy figurine with sugar coating](#superman-gummy-candy-figurine-with-sugar-coating)
+- [Your figurine relaxing in a spa](#your-figurine-relaxing-in-a-spa)
+- [Your figurine wingsuit-jumping from a spaceship](#your-figurine-wingsuit-jumping-from-a-spaceship)
 
 ## 3D collectible figurine of yourself
 
@@ -83,6 +87,20 @@ Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/wor
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/cute-retro-mini-car-with-pastel-flowers-in-a-spring-setting)
 
+## Fox explorer toy figurine in a kid's bedroom
+
+<a href="https://trypromptgenerator.com/p/fox-explorer-toy-figurine-kids-bedroom"><img src="https://trypromptgenerator.com/library/fox-explorer-toy-figurine-kids-bedroom.webp" width="220" alt="Fox explorer toy figurine in a kid&#x27;s bedroom: result on Nano Banana"></a>
+
+**Model:** Nano Banana | **Aspect ratio:** 1:1
+
+```text
+A plastic toy figurine of a cute fox explorer wearing a safari hat, a blue scarf and a small backpack, holding a magnifying glass. It stands on a soft rug in a bright kid's bedroom with toy blocks, toy cars and a world map on the wall, blurred behind. Macro toy photography, shallow depth of field, natural light.
+```
+
+Credit: prompt adapted from [GitHub](https://github.com/google-gemini/cookbook/blob/89fe4a0f98/quickstarts/Get_Started_Nano_Banana.ipynb) by Google Gemini cookbook team, Apache 2.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/fox-explorer-toy-figurine-kids-bedroom)
+
 ## Miniature architectural house model on a professional desk
 
 <a href="https://trypromptgenerator.com/p/miniature-architectural-house-model-on-a-professional-desk"><img src="https://trypromptgenerator.com/library/miniature-architectural-house-model-on-a-professional-desk.webp" width="220" alt="Miniature architectural house model on a professional desk: result on Nano Banana Pro"></a>
@@ -97,6 +115,20 @@ Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/wor
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/miniature-architectural-house-model-on-a-professional-desk)
 
+## Move your figurine to a sandy beach
+
+<a href="https://trypromptgenerator.com/p/fox-figurine-on-sandy-beach-edit"><img src="https://trypromptgenerator.com/library/fox-figurine-on-sandy-beach-edit.webp" width="220" alt="Move your figurine to a sandy beach: result on Nano Banana"></a>
+
+**Model:** Nano Banana | **Aspect ratio:** 1:1
+
+```text
+Using my uploaded photo of a toy figurine, move the same figurine onto a sandy beach. Keep the character, its outfit, accessories and pose exactly the same. Turquoise sea and gentle waves behind, a few shells and a piece of driftwood in the sand, bright midday sun, macro toy photography.
+```
+
+Credit: prompt adapted from [GitHub](https://github.com/google-gemini/cookbook/blob/89fe4a0f98/quickstarts/Get_Started_Nano_Banana.ipynb) by Google Gemini cookbook team, Apache 2.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/fox-figurine-on-sandy-beach-edit)
+
 ## Superman gummy candy figurine with sugar coating
 
 <a href="https://trypromptgenerator.com/p/superman-gummy-candy-figurine-with-sugar-coating"><img src="https://trypromptgenerator.com/library/superman-gummy-candy-figurine-with-sugar-coating.webp" width="220" alt="Superman gummy candy figurine with sugar coating: result on Qwen Image 3"></a>
@@ -110,3 +142,31 @@ superman, sugar-coated sour gummy candy style, with pink, yellow, and green gumm
 Credit: prompt adapted from [ComfyUI templates](https://github.com/Comfy-Org/workflow_templates/blob/main/templates/template_sugar_coated_gummy_style_qwen.json) by Comfy Org, MIT licence.
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/superman-gummy-candy-figurine-with-sugar-coating)
+
+## Your figurine relaxing in a spa
+
+<a href="https://trypromptgenerator.com/p/figurine-relaxing-in-spa-hot-tub"><img src="https://trypromptgenerator.com/library/figurine-relaxing-in-spa-hot-tub.webp" width="220" alt="Your figurine relaxing in a spa: result on Nano Banana"></a>
+
+**Model:** Nano Banana | **Aspect ratio:** 1:1
+
+```text
+Using my uploaded photo of a toy figurine, show the same character relaxing in a wooden spa tub with a white towel wrapped on its head, cucumber slices on its eyes and a cup of tea in its paws. Steam rises, candles and bamboo in a cosy spa room behind. Soft warm light, toy photography.
+```
+
+Credit: prompt adapted from [GitHub](https://github.com/google-gemini/cookbook/blob/89fe4a0f98/quickstarts/Get_Started_Nano_Banana.ipynb) by Google Gemini cookbook team, Apache 2.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/figurine-relaxing-in-spa-hot-tub)
+
+## Your figurine wingsuit-jumping from a spaceship
+
+<a href="https://trypromptgenerator.com/p/figurine-wingsuit-jump-from-spaceship"><img src="https://trypromptgenerator.com/library/figurine-wingsuit-jump-from-spaceship.webp" width="220" alt="Your figurine wingsuit-jumping from a spaceship: result on Nano Banana"></a>
+
+**Model:** Nano Banana | **Aspect ratio:** 1:1
+
+```text
+Using my uploaded photo of a toy figurine, show the same character base-jumping from a spaceship in a blue wingsuit high above the Earth. Keep its face, hat and accessories. The white spaceship hull is above, the curved blue planet and clouds below. Dramatic, adventurous, realistic toy photography.
+```
+
+Credit: prompt adapted from [GitHub](https://github.com/google-gemini/cookbook/blob/89fe4a0f98/quickstarts/Get_Started_Nano_Banana.ipynb) by Google Gemini cookbook team, Apache 2.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/figurine-wingsuit-jump-from-spaceship)

@@ -1,8 +1,8 @@
 # Product video prompts
 
-12 prompts with the result each one produced. Short product clips for ads and store pages. Copy a prompt with the button on its code block, then open its page on Prompt Generator for the full-size result, a breakdown of the prompt and variations.
+13 prompts with the result each one produced. Short product clips for ads and store pages. Copy a prompt with the button on its code block, then open its page on Prompt Generator for the full-size result, a breakdown of the prompt and variations.
 
-Models used here: Seedance 2.0 (8), Gemini Omni 1.2 Flash (2), Grok Imagine Video 1.5 (1), MiniMax Hailuo 2.3 (1).
+Models used here: Seedance 2.0 (8), Gemini Omni 1.2 Flash (2), Grok Imagine Video 1.5 (1), MiniMax Hailuo 2.3 (1), Veo 3.1 (1).
 
 [Back to all categories](../README.md) | [This category on Prompt Generator](https://trypromptgenerator.com/video-prompts/product-video)
 
@@ -14,6 +14,7 @@ Models used here: Seedance 2.0 (8), Gemini Omni 1.2 Flash (2), Grok Imagine Vide
 - [Serum dropper bottle, vertical skincare ad](#serum-dropper-bottle-vertical-skincare-ad)
 - [Steel water bottle by a mountain stream, product orbit](#steel-water-bottle-by-a-mountain-stream-product-orbit)
 - [Wristwatch macro with a light sweep](#wristwatch-macro-with-a-light-sweep)
+- [Backpack commercial: rider jumps on a motorbike](#backpack-commercial-rider-jumps-on-a-motorbike)
 - [Cinematic car commercial in a blue studio](#cinematic-car-commercial-in-a-blue-studio)
 - [Cinematic floating sneaker product showcase](#cinematic-floating-sneaker-product-showcase)
 - [Luxury eyeshadow application in a bright studio](#luxury-eyeshadow-application-in-a-bright-studio)
@@ -128,6 +129,20 @@ Duration: 5 seconds.
 ```
 
 [Result, breakdown and variations →](https://trypromptgenerator.com/p/wristwatch-macro-light-sweep)
+
+## Backpack commercial: rider jumps on a motorbike
+
+<a href="https://trypromptgenerator.com/p/backpack-commercial-rider-jumps-on-motorbike"><img src="https://trypromptgenerator.com/library/video/backpack-commercial-rider-jumps-on-motorbike.webp" width="220" alt="Backpack commercial: rider jumps on a motorbike: poster frame on Veo 3.1"></a>
+
+**Model:** Veo 3.1 | **Aspect ratio:** 16:9 | **Video prompt:** the thumbnail is the poster frame, the clip plays on the page
+
+```text
+Using my uploaded product photo of a backpack, a playful, over-the-top commercial video: a rider in a leather jacket puts on the red backpack beside his motorbike on an empty desert road at sunset, leaps onto the bike in one jump and roars off toward the setting sun. The backpack stays exactly as in the photo. Warm golden light, low camera, cinematic lens flare.
+```
+
+Credit: prompt adapted from [GitHub](https://github.com/google-gemini/cookbook/blob/3912d054f3/quickstarts/Get_started_Veo.ipynb (cells 63-66)) by Google Gemini cookbook team, Apache 2.0 licence.
+
+[Result, breakdown and variations →](https://trypromptgenerator.com/p/backpack-commercial-rider-jumps-on-motorbike)
 
 ## Cinematic car commercial in a blue studio
 
